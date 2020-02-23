@@ -1,6 +1,5 @@
 # Created by kilwill [joelcosta2]
 
-## Prevent folder NEI and .zip files (handBackups) to go to repo
+## Prevent .zip files (handBackups) to go to repo
 
 *.zip
-NEI/
