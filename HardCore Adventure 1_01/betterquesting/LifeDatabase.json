@@ -1,0 +1,11 @@
+{
+  "lifeDatabase": {
+    "playerLives": [
+      {
+        "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+        "lives": 3
+      }
+    ],
+    "partyLives": []
+  }
+}

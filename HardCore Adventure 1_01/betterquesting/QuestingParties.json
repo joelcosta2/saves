@@ -1,0 +1,24 @@
+{
+  "parties": [
+    {
+      "members": [
+        {
+          "uuid": "4133f7bf-0edf-41c0-b92b-14262154887e",
+          "status": "MEMBER"
+        },
+        {
+          "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+          "status": "OWNER"
+        }
+      ],
+      "properties": {
+        "betterquesting": {
+          "partysinglereward": false,
+          "partysharelives": false,
+          "name": "New Party"
+        }
+      },
+      "partyID": 0
+    }
+  ]
+}
