@@ -17,6 +17,18 @@
     },
     "done": true
   },
+  "buildcraftenergy:engine": {
+    "criteria": {
+      "redstone_engine": "2020-03-15 22:53:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2020-03-16 01:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
       "has_red_flower": "2020-03-14 02:05:29 +0000"
@@ -28,6 +40,24 @@
       "has_double_plant": "2020-03-14 02:05:35 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-03-16 02:02:43 +0000"
+    },
+    "done": true
+  },
+  "buildcraftcore:gears": {
+    "criteria": {
+      "gear_wood": "2020-03-15 22:53:03 +0000"
+    },
+    "done": false
   },
   "mist:recipes/items/flint_and_stone": {
     "criteria": {
@@ -41,9 +71,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-03-16 02:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -56,6 +98,12 @@
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2020-03-14 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-03-15 22:45:19 +0000"
     },
     "done": true
   },
@@ -74,6 +122,12 @@
   "jaff:recipes/jaff/wooden_fishing_rod": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-15 22:46:33 +0000"
     },
     "done": true
   },
@@ -98,6 +152,12 @@
   "jaff:recipes/jaff/diamond_fishing_rod": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/fruit_salad": {
+    "criteria": {
+      "has_bowl": "2020-03-15 22:45:59 +0000"
     },
     "done": true
   },
@@ -149,6 +209,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-03-14 01:57:35 +0000"
@@ -170,6 +236,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2020-03-15 20:31:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2020-03-16 01:32:01 +0000"
     },
     "done": true
   },
@@ -215,6 +287,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2020-03-15 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/veggie_salad": {
+    "criteria": {
+      "has_bowl": "2020-03-15 22:45:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -224,6 +308,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-03-16 02:02:43 +0000"
     },
     "done": true
   },
@@ -239,9 +329,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2020-03-15 22:45:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-03-14 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/items/hygrometer": {
+    "criteria": {
+      "has_item_2": "2020-03-16 01:14:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beetroot": "2020-03-15 23:02:55 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -254,6 +374,18 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-03-15 19:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -273,6 +405,18 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/harvest_turnip": {
+    "criteria": {
+      "turnip": "2020-03-15 22:46:31 +0000"
+    },
+    "done": true
+  },
+  "survivalist:recipes/dough": {
+    "criteria": {
+      "has_wheat": "2020-03-15 22:46:33 +0000"
     },
     "done": true
   },
@@ -318,6 +462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
@@ -336,9 +486,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-03-16 02:02:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/tools/flower_basket": {
     "criteria": {
       "has_lots_of_items": "2020-03-14 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -363,6 +525,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2020-03-16 01:32:01 +0000"
     },
     "done": true
   },
@@ -396,9 +564,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2020-03-15 22:44:45 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mud_bricks": {
     "criteria": {
       "has_log": "2020-03-15 18:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2020-03-16 02:02:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -411,6 +603,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -468,15 +666,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2020-03-16 02:02:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-03-14 05:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
@@ -498,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2020-03-15 22:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -513,6 +735,18 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2020-03-15 22:45:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/shroom_salad": {
+    "criteria": {
+      "has_bowl": "2020-03-15 22:45:59 +0000"
     },
     "done": true
   },
@@ -540,6 +774,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-03-15 22:45:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -552,6 +792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2020-03-15 22:45:19 +0000"
+    },
+    "done": true
+  },
   "advancedrocketry:normal/root": {
     "criteria": {
       "crafting_table": "2020-03-14 02:32:34 +0000"
@@ -561,6 +807,12 @@
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-03-15 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2020-03-15 22:45:59 +0000"
     },
     "done": true
   },
@@ -585,6 +837,12 @@
   "biomesoplenty:recipes/buildingblocks/mud": {
     "criteria": {
       "has_item": "2020-03-14 04:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-03-16 02:16:04 +0000"
     },
     "done": true
   },
@@ -627,6 +885,18 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
+  "survivalist:recipes/chainmail": {
+    "criteria": {
+      "has_iron": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
