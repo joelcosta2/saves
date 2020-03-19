@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-03-15 19:52:34 +0000"
@@ -134,6 +140,12 @@
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
     },
     "done": true
   },
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "jaff:recipes/jaff/tank": {
+    "criteria": {
+      "has_water_bucket": "2020-03-18 23:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
@@ -335,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-14 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "jaff:recipes/jaff/iron_hook": {
+    "criteria": {
+      "has_iron_nugget": "2020-03-19 00:04:27 +0000"
     },
     "done": true
   },
@@ -407,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-18 23:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2020-03-16 00:15:57 +0000"
@@ -428,6 +464,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-03-19 00:30:55 +0000"
     },
     "done": true
   },
@@ -458,6 +500,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
     },
     "done": true
   },
@@ -653,11 +701,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2020-03-14 02:31:38 +0000"
     },
     "done": true
+  },
+  "mist:recipes/blocks/sponge_clear": {
+    "criteria": {
+      "has_item_2": "2020-03-18 23:53:16 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
@@ -674,6 +734,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_double_plant": "2020-03-15 19:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
     },
     "done": true
   },
@@ -854,9 +920,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:20 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/items/sponge_fibre_clear": {
+    "criteria": {
+      "has_item_2": "2020-03-18 23:53:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
     },
     "done": true
   },
@@ -944,6 +1028,18 @@
       "has_gravel": "2020-03-14 02:20:16 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/items/acid_bucket": {
+    "criteria": {
+      "has_item_2": "2020-03-18 23:53:16 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/buildingblocks/mud_bricks": {
     "criteria": {
@@ -1089,6 +1185,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2020-03-18 23:53:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2020-03-15 19:09:51 +0000"
@@ -1098,6 +1200,18 @@
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/bamboo_thatching": {
+    "criteria": {
+      "has_item": "2020-03-18 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-19 00:55:18 +0000"
     },
     "done": true
   },
