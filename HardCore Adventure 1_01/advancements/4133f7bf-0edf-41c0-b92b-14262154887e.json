@@ -137,9 +137,21 @@
     },
     "done": true
   },
+  "vimmersion:recipes/hammer": {
+    "criteria": {
+      "has_iron_block": "2020-03-19 19:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2020-03-19 22:36:09 +0000"
     },
     "done": true
   },
@@ -206,6 +218,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2020-03-19 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "botania:main/elf_portal_open": {
+    "criteria": {
+      "portal": "2020-03-19 22:50:53 +0000"
     },
     "done": true
   },
@@ -327,6 +345,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-03-19 00:24:41 +0000"
+    },
+    "done": true
+  },
+  "jaff:recipes/jaff/iron_hook": {
+    "criteria": {
+      "has_iron_nugget": "2020-03-19 22:32:59 +0000"
     },
     "done": true
   },
@@ -600,9 +624,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2020-03-19 22:36:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-19 19:29:15 +0000"
     },
     "done": true
   },
