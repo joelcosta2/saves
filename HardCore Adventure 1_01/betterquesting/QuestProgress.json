@@ -6272,7 +6272,18 @@
       "questID": 114
     },
     {
-      "completed": [],
+      "completed": [
+        {
+          "uuid": "4133f7bf-0edf-41c0-b92b-14262154887e",
+          "timestamp": 14264896,
+          "claimed": false
+        },
+        {
+          "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+          "timestamp": 14264896,
+          "claimed": false
+        }
+      ],
       "tasks": [
         {
           "completeUsers": [
@@ -6299,7 +6310,10 @@
           "index": 0
         },
         {
-          "completeUsers": [],
+          "completeUsers": [
+            "8953775b-5789-4ff6-b2ce-e4f54698526f",
+            "4133f7bf-0edf-41c0-b92b-14262154887e"
+          ],
           "userProgress": [
             {
               "uuid": "4133f7bf-0edf-41c0-b92b-14262154887e",
@@ -6310,7 +6324,7 @@
             {
               "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
               "data": [
-                0
+                1
               ]
             }
           ],
@@ -6352,7 +6366,15 @@
       "tasks": [
         {
           "completeUsers": [],
-          "userProgress": [],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                0,
+                0
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 1
         }
@@ -6656,11 +6678,32 @@
       "questID": 124
     },
     {
-      "completed": [],
+      "completed": [
+        {
+          "uuid": "4133f7bf-0edf-41c0-b92b-14262154887e",
+          "timestamp": 14446036,
+          "claimed": false
+        },
+        {
+          "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+          "timestamp": 14446036,
+          "claimed": false
+        }
+      ],
       "tasks": [
         {
-          "completeUsers": [],
-          "userProgress": [],
+          "completeUsers": [
+            "8953775b-5789-4ff6-b2ce-e4f54698526f",
+            "4133f7bf-0edf-41c0-b92b-14262154887e"
+          ],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                1
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 0
         }
@@ -6672,19 +6715,42 @@
       "tasks": [
         {
           "completeUsers": [],
-          "userProgress": [],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                0
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 0
         },
         {
           "completeUsers": [],
-          "userProgress": [],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                0
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 1
         },
         {
           "completeUsers": [],
-          "userProgress": [],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 2
         }
@@ -7038,7 +7104,14 @@
       "tasks": [
         {
           "completeUsers": [],
-          "userProgress": [],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                0
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 0
         }
@@ -7079,7 +7152,16 @@
       "tasks": [
         {
           "completeUsers": [],
-          "userProgress": [],
+          "userProgress": [
+            {
+              "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
+              "data": [
+                0,
+                0,
+                0
+              ]
+            }
+          ],
           "taskID": "bq_standard:retrieval",
           "index": 0
         }
