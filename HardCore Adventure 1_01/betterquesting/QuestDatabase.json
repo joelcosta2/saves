@@ -14644,7 +14644,12 @@
           "desc": "On each pack update, claim this quest to update all quests."
         }
       },
-      "tasks": [],
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
       "rewards": [
         {
           "command": "/bq_admin default load",
