@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "mist:story/third_breath": {
+    "criteria": {
+      "third_breath": "2020-04-05 17:09:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:14 +0000"
@@ -194,6 +200,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-03-19 22:36:09 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/blocks/bio_shale_block": {
+    "criteria": {
+      "has_item": "2020-04-05 17:12:03 +0100"
     },
     "done": true
   },
@@ -456,6 +468,12 @@
     },
     "done": true
   },
+  "mist:story/mask_full": {
+    "criteria": {
+      "mask_full": "2020-04-05 17:08:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -518,6 +536,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "magma_cube": "2020-04-06 19:26:37 +0100",
       "blaze": "2020-03-28 04:23:29 +0000",
       "silverfish": "2020-03-24 00:40:34 +0000"
     },
@@ -643,6 +662,12 @@
     },
     "done": true
   },
+  "mist:recipes/items/torch_from_bio_shale": {
+    "criteria": {
+      "has_item": "2020-04-05 17:12:03 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2020-03-20 23:11:18 +0000"
@@ -685,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2020-04-05 20:19:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2020-03-21 00:26:26 +0000"
@@ -711,9 +742,10 @@
   },
   "mist:recipes/items/fire_charge_from_filter_coal": {
     "criteria": {
+      "has_item_1": "2020-04-05 17:07:43 +0100",
       "has_item_0": "2020-03-29 20:45:15 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
@@ -992,6 +1024,12 @@
     },
     "done": true
   },
+  "mist:recipes/blocks/filter_coal_block": {
+    "criteria": {
+      "has_item": "2020-04-05 17:07:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "silverfish": "2020-03-24 00:40:34 +0000"
@@ -1007,6 +1045,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2020-03-23 23:10:31 +0000"
+    },
+    "done": true
+  },
+  "mist:story/coal": {
+    "criteria": {
+      "coal": "2020-04-05 17:07:43 +0100"
     },
     "done": true
   },
@@ -1100,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2020-04-05 20:19:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_red_flower": "2020-03-14 02:05:46 +0000"
@@ -1151,6 +1201,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2020-03-22 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2020-04-05 20:20:24 +0100"
     },
     "done": true
   },
@@ -1777,6 +1833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2020-04-05 20:20:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 00:26:26 +0000"
@@ -1837,6 +1899,12 @@
     },
     "done": true
   },
+  "mist:recipes/items/torch_from_filter_coal": {
+    "criteria": {
+      "has_item": "2020-04-05 17:07:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2020-03-29 22:48:18 +0100"
@@ -1863,9 +1931,10 @@
   },
   "mist:recipes/blocks/sponge_clear": {
     "criteria": {
+      "has_item_1": "2020-04-05 17:13:36 +0100",
       "has_item_2": "2020-03-20 23:34:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -2028,9 +2097,10 @@
   },
   "mist:recipes/items/sponge_fibre_clear": {
     "criteria": {
+      "has_item_1": "2020-04-05 17:13:31 +0100",
       "has_item_2": "2020-03-20 23:34:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
@@ -2209,9 +2279,10 @@
   },
   "mist:recipes/items/fire_charge_from_bio_shale": {
     "criteria": {
+      "has_item_1": "2020-04-05 17:12:03 +0100",
       "has_item_0": "2020-03-29 20:45:15 +0100"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:recipes/buildingblocks/peridot_block": {
     "criteria": {
@@ -2348,6 +2419,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2020-03-28 01:44:13 +0000"
+    },
+    "done": true
+  },
+  "rftools:root": {
+    "criteria": {
+      "has_machine_frame": "2020-04-06 22:55:11 +0100"
     },
     "done": true
   },
