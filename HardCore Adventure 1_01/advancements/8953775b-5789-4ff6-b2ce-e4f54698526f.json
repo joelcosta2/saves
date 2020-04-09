@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-08 22:22:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-03-14 02:01:11 +0000"
@@ -819,6 +825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-04-08 23:37:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2020-03-14 02:15:01 +0000"
@@ -1275,6 +1287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-04-08 23:37:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_the_recipe": "2020-03-15 20:13:57 +0000"
@@ -1419,6 +1437,7 @@
       "cooked_cod": "2020-03-21 21:18:32 +0000",
       "bread": "2020-04-04 22:21:55 +0100",
       "beetroot": "2020-03-15 23:45:10 +0000",
+      "cooked_chicken": "2020-04-08 23:34:51 +0100",
       "cooked_salmon": "2020-03-21 03:08:40 +0000",
       "carrot": "2020-03-21 21:10:14 +0000"
     },
@@ -1931,6 +1950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-04-08 22:22:52 +0100"
+    },
+    "done": true
+  },
   "jaff:recipes/jaff/golden_fishing_rod": {
     "criteria": {
       "has_stick": "2020-03-14 02:31:38 +0000"
@@ -2033,6 +2058,12 @@
       "has_magma_cream": "2020-03-29 20:15:29 +0100"
     },
     "done": true
+  },
+  "mist:recipes/mixed/mixed_booshelf": {
+    "criteria": {
+      "has_item_0": "2020-04-08 23:37:49 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
