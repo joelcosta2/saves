@@ -526,9 +526,16 @@
     "criteria": {
       "shulker": "2020-03-24 00:24:31 +0000",
       "magma_cube": "2020-03-29 06:12:16 +0100",
+      "blaze": "2020-04-09 23:57:44 +0100",
       "silverfish": "2020-03-26 23:29:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-10 01:44:31 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -644,6 +651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-09 23:57:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2020-03-21 00:10:00 +0000"
@@ -694,9 +707,10 @@
   },
   "mist:recipes/items/fire_charge_from_filter_coal": {
     "criteria": {
-      "has_item_1": "2020-04-04 17:22:18 +0100"
+      "has_item_1": "2020-04-04 17:22:18 +0100",
+      "has_item_0": "2020-04-10 01:44:31 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
@@ -999,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-10 01:44:31 +0100"
+    },
+    "done": true
+  },
   "mist:recipes/items/acid_bucket": {
     "criteria": {
       "has_item_2": "2020-03-18 23:53:16 +0000"
@@ -1239,6 +1259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2020-04-10 01:44:31 +0100"
+    },
+    "done": true
+  },
   "mist:recipes/trees/t_tree_step_from_branch": {
     "criteria": {
       "has_item_1": "2020-04-01 23:57:08 +0100"
@@ -1361,9 +1387,10 @@
   },
   "mist:recipes/blocks/brewing_stand": {
     "criteria": {
-      "has_item_1": "2020-04-01 23:53:35 +0100"
+      "has_item_1": "2020-04-01 23:53:35 +0100",
+      "has_item_0": "2020-04-09 23:57:45 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
@@ -1725,6 +1752,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-04-10 01:44:52 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_pump": {
     "criteria": {
       "craft_hammer": "2020-04-04 16:11:43 +0100"
@@ -1740,6 +1773,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-21 00:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-04-10 01:44:52 +0100"
     },
     "done": true
   },
@@ -1794,6 +1833,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2020-03-14 02:52:45 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/items/niobium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2020-04-09 23:04:18 +0100"
     },
     "done": true
   },
@@ -2065,6 +2110,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2020-04-09 23:57:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2020-03-21 00:09:57 +0000"
@@ -2092,6 +2143,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2020-03-28 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2020-04-09 23:57:45 +0100"
     },
     "done": true
   },
@@ -2163,9 +2220,10 @@
   },
   "mist:recipes/items/fire_charge_from_bio_shale": {
     "criteria": {
-      "has_item_1": "2020-04-04 01:29:35 +0100"
+      "has_item_1": "2020-04-04 01:29:35 +0100",
+      "has_item_0": "2020-04-10 01:44:31 +0100"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {

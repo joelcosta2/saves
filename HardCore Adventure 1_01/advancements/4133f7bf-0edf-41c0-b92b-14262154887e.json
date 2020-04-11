@@ -1068,9 +1068,10 @@
   },
   "mist:recipes/items/acid_bucket": {
     "criteria": {
+      "has_item_1": "2020-04-10 01:47:19 +0100",
       "has_item_2": "2020-03-20 23:34:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
@@ -2145,6 +2146,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_revolver": {
+    "criteria": {
+      "craft_hammer": "2020-04-10 23:56:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-14 02:32:34 +0000"
@@ -2425,6 +2432,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2020-03-28 01:44:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/multiblock_improvedblastfurnace": {
+    "criteria": {
+      "form_blastfurnace": "2020-04-09 22:51:34 +0100"
     },
     "done": true
   },
