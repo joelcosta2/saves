@@ -1021,9 +1021,10 @@
   },
   "mist:recipes/items/acid_bucket": {
     "criteria": {
+      "has_item_1": "2020-04-11 22:14:55 +0100",
       "has_item_2": "2020-03-18 23:53:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
@@ -1052,6 +1053,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-03-15 19:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-04-11 16:45:31 +0100"
     },
     "done": true
   },
@@ -1462,6 +1469,7 @@
     "criteria": {
       "baked_potato": "2020-03-22 15:30:59 +0000",
       "cooked_cod": "2020-03-21 21:18:32 +0000",
+      "raw_salmon": "2020-04-11 16:42:20 +0100",
       "bread": "2020-04-04 22:21:55 +0100",
       "beetroot": "2020-03-15 23:45:10 +0000",
       "cooked_chicken": "2020-04-08 23:34:51 +0100",
@@ -1584,6 +1592,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_sheep": "2020-04-12 01:55:48 +0100",
+      "bred_cow": "2020-04-12 01:59:56 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
@@ -1595,6 +1610,12 @@
       "has_diamond": "2020-03-22 04:36:46 +0000"
     },
     "done": true
+  },
+  "mist:recipes/items/acid_cleaning": {
+    "criteria": {
+      "has_item_2": "2020-04-11 01:39:26 +0100"
+    },
+    "done": false
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -2324,6 +2345,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-21 19:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_sheep": "2020-04-12 01:55:48 +0100"
     },
     "done": true
   },
