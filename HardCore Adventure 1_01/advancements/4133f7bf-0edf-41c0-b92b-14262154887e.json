@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "fp:erse": {
+    "criteria": {
+      "get_erse": "2020-04-14 22:40:18 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-03-14 05:00:13 +0000"
@@ -398,7 +404,12 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "volcanic_island": "2020-03-14 01:54:47 +0000"
+      "oasis": "2020-04-14 22:58:22 +0100",
+      "xeric_shrubland": "2020-04-14 22:56:43 +0100",
+      "volcanic_island": "2020-03-14 01:54:47 +0000",
+      "quagmire": "2020-04-14 22:25:11 +0100",
+      "outback": "2020-04-14 22:56:20 +0100",
+      "wasteland": "2020-04-14 22:25:59 +0100"
     },
     "done": false
   },
@@ -417,6 +428,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-20 23:34:45 +0000"
+    },
+    "done": true
+  },
+  "fp:crys_alutin": {
+    "criteria": {
+      "alutin": "2020-04-14 22:54:27 +0100"
     },
     "done": true
   },
@@ -542,9 +559,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2020-04-14 22:45:54 +0100",
+      "zombie_villager": "2020-04-14 22:32:31 +0100",
       "magma_cube": "2020-04-06 19:26:37 +0100",
       "blaze": "2020-03-28 04:23:29 +0000",
-      "silverfish": "2020-03-24 00:40:34 +0000"
+      "silverfish": "2020-03-24 00:40:34 +0000",
+      "zombie": "2020-04-14 22:32:30 +0100"
     },
     "done": false
   },
@@ -683,6 +703,12 @@
   "immersiveengineering:main/multiblock_blastfurnace": {
     "criteria": {
       "form_blastfurnace": "2020-03-28 22:35:41 +0000"
+    },
+    "done": true
+  },
+  "fp:sushi": {
+    "criteria": {
+      "fishblock": "2020-04-15 00:04:32 +0100"
     },
     "done": true
   },
@@ -982,6 +1008,12 @@
     },
     "done": true
   },
+  "fp:root": {
+    "criteria": {
+      "escanner": "2020-04-14 22:35:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-03-15 19:10:39 +0000"
@@ -1090,6 +1122,17 @@
       "has_bonemeal": "2020-03-16 02:02:43 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mesa_rock": "2020-04-14 22:28:21 +0100",
+      "desert_hills": "2020-04-14 22:31:39 +0100",
+      "mesa": "2020-04-14 22:25:29 +0100",
+      "mesa_clear_rock": "2020-04-14 23:02:10 +0100",
+      "river": "2020-04-15 20:39:14 +0100",
+      "desert": "2020-04-14 22:27:08 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
@@ -1482,6 +1525,12 @@
     },
     "done": true
   },
+  "fp:crys_neon": {
+    "criteria": {
+      "neon": "2020-04-14 23:08:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-03-14 01:57:35 +0000"
@@ -1509,6 +1558,12 @@
   "botania:main/elf_portal_open": {
     "criteria": {
       "portal": "2020-03-19 22:50:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/red_dye_from_bromeliad": {
+    "criteria": {
+      "has_flower": "2020-04-15 20:39:27 +0100"
     },
     "done": true
   },
@@ -1554,6 +1609,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-21 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "fp:composite": {
+    "criteria": {
+      "composite": "2020-04-14 22:36:01 +0100"
     },
     "done": true
   },
@@ -1623,6 +1684,13 @@
     },
     "done": true
   },
+  "fp:labor": {
+    "criteria": {
+      "scanner": "2020-04-15 00:48:44 +0100",
+      "forscher": "2020-04-15 00:53:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
@@ -1646,6 +1714,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-19 00:29:50 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2020-04-15 20:16:23 +0100"
     },
     "done": true
   },
@@ -1760,6 +1834,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2020-03-15 22:45:59 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:soldering": {
+    "criteria": {
+      "solderer_in_inventory": "2020-04-15 20:16:47 +0100"
     },
     "done": true
   },
@@ -2162,6 +2242,12 @@
     "criteria": {
       "yellow_flower": "2020-03-14 02:05:29 +0000",
       "red_flower": "2020-03-14 02:05:29 +0000"
+    },
+    "done": true
+  },
+  "fp:the_impalpable": {
+    "criteria": {
+      "escanner": "2020-04-14 22:35:49 +0100"
     },
     "done": true
   },
