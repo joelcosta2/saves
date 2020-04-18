@@ -59,6 +59,18 @@
     },
     "done": true
   },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2020-04-17 22:15:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2020-04-18 02:58:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2020-03-14 02:05:34 +0000"
@@ -996,6 +1008,12 @@
     },
     "done": true
   },
+  "mist:recipes/items/humus": {
+    "criteria": {
+      "has_item_1": "2020-04-18 03:04:13 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -1305,6 +1323,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2020-03-22 19:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2020-04-18 03:05:38 +0100"
     },
     "done": true
   },
@@ -1654,6 +1678,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/charger": {
+    "criteria": {
+      "certus": "2020-04-17 23:00:17 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2020-03-19 00:24:41 +0000"
@@ -1750,6 +1780,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-03-15 22:44:45 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/items/clay_ball_gray": {
+    "criteria": {
+      "has_item": "2020-04-18 03:04:13 +0100"
     },
     "done": true
   },
@@ -2165,6 +2201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2020-04-18 02:58:15 +0100"
+    },
+    "done": true
+  },
   "jaff:recipes/jaff/golden_fishing_rod": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
@@ -2353,6 +2395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2020-04-18 03:04:13 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/root": {
     "criteria": {
       "hold_manual": "2020-03-30 00:06:56 +0100"
@@ -2417,6 +2465,12 @@
   "biomesoplenty:recipes/buildingblocks/peridot_block": {
     "criteria": {
       "has_at_least_9_gems": "2020-03-26 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "mist:recipes/items/sapropel_ball": {
+    "criteria": {
+      "has_item": "2020-04-18 03:05:38 +0100"
     },
     "done": true
   },
@@ -2507,6 +2561,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2020-03-28 05:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2020-04-18 03:05:03 +0100"
     },
     "done": true
   },
