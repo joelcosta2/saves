@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-04-19 00:37:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2020-03-14 02:31:38 +0000"
@@ -297,6 +303,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2020-04-19 00:37:46 +0100"
     },
     "done": true
   },
@@ -997,6 +1009,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/miners_delight": {
+    "criteria": {
+      "miners_delight": "2020-04-19 04:15:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2020-03-25 21:57:17 +0000"
@@ -1234,6 +1252,12 @@
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2020-03-18 23:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2020-04-19 00:37:46 +0100"
     },
     "done": true
   },
@@ -1700,6 +1724,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-03-15 19:05:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2020-04-19 04:11:31 +0100"
     },
     "done": true
   },
@@ -2413,6 +2443,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2020-03-28 19:15:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_miners_delight": {
+    "criteria": {
+      "has_flower": "2020-04-19 04:15:12 +0100"
     },
     "done": true
   },
