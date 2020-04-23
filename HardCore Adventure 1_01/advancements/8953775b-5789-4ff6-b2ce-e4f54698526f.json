@@ -877,6 +877,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/malachite_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-04-22 23:27:06 +0100"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2020-03-21 02:31:03 +0000"
@@ -1581,6 +1587,12 @@
     },
     "done": true
   },
+  "rftools:hardpower": {
+    "criteria": {
+      "placed_endergenic": "2020-04-23 00:27:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
@@ -2076,6 +2088,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/malachite": {
+    "criteria": {
+      "has_the_recipe": "2020-04-22 23:27:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-03-21 00:10:00 +0000"
@@ -2195,6 +2213,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2020-03-28 22:29:55 +0000"
+    },
+    "done": true
+  },
+  "rftools:storepower": {
+    "criteria": {
+      "placed_powercell": "2020-04-23 02:10:00 +0100"
     },
     "done": true
   },
