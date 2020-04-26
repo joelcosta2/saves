@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "fp:not_diamond": {
+    "criteria": {
+      "tin_ore": "2020-04-25 02:31:34 +0100"
+    },
+    "done": true
+  },
   "buildcraftenergy:engine": {
     "criteria": {
       "redstone_engine": "2020-03-15 22:53:26 +0000"
@@ -312,6 +318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2020-04-25 23:26:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2020-03-28 01:44:13 +0000"
@@ -336,6 +348,12 @@
     },
     "done": true
   },
+  "fp:mainboard": {
+    "criteria": {
+      "mainboard": "2020-04-25 01:23:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
@@ -345,6 +363,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2020-03-16 02:02:43 +0000"
+    },
+    "done": true
+  },
+  "fp:glowmelo": {
+    "criteria": {
+      "pickup_glowmelow": "2020-04-25 02:31:34 +0100"
     },
     "done": true
   },
@@ -599,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2020-04-25 23:26:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-03-29 22:23:47 +0100"
@@ -641,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2020-04-25 23:26:50 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/amber": {
     "criteria": {
       "has_the_recipe": "2020-03-26 20:22:37 +0000"
@@ -680,6 +716,12 @@
   "buildcraftcore:root": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "disk_drive_in_inventory": "2020-04-25 19:39:38 +0100"
     },
     "done": true
   },
@@ -1039,6 +1081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2020-04-25 23:26:50 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -1201,6 +1249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-04-25 23:28:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2020-03-14 05:00:13 +0000"
@@ -1288,6 +1342,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2020-04-25 23:26:50 +0100"
     },
     "done": true
   },
@@ -1562,9 +1622,21 @@
     },
     "done": true
   },
+  "fp:neon_energy": {
+    "criteria": {
+      "generator": "2020-04-23 13:48:54 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-03-19 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "fp:menelaus": {
+    "criteria": {
+      "on_menelaus": "2020-04-25 02:31:34 +0100"
     },
     "done": true
   },
@@ -1808,6 +1880,13 @@
     },
     "done": true
   },
+  "fp:metalhaltig": {
+    "criteria": {
+      "gravel": "2020-04-25 02:31:34 +0100",
+      "dirt": "2020-04-25 02:31:34 +0100"
+    },
+    "done": true
+  },
   "refinedstorage:root": {
     "criteria": {
       "controller_in_inventory": "2020-04-15 20:16:23 +0100"
@@ -1825,6 +1904,12 @@
       "has_item_2": "2020-04-01 22:42:14 +0100"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2020-04-25 23:26:50 +0100"
+    },
+    "done": true
   },
   "minecraft:story/mine_stone": {
     "criteria": {
@@ -1871,6 +1956,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:14 +0000"
+    },
+    "done": true
+  },
+  "fp:crys_bioterium": {
+    "criteria": {
+      "bioterium": "2020-04-23 14:44:37 +0100"
     },
     "done": true
   },
@@ -2268,6 +2359,12 @@
     },
     "done": true
   },
+  "fp:tyros": {
+    "criteria": {
+      "on_tyors": "2020-04-25 02:31:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2020-04-18 02:58:15 +0100"
@@ -2307,6 +2404,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "fp:crys_retium": {
+    "criteria": {
+      "retium": "2020-04-25 02:31:34 +0100"
     },
     "done": true
   },
@@ -2528,6 +2631,12 @@
     },
     "done": true
   },
+  "fp:laserbow": {
+    "criteria": {
+      "optain_laserbow": "2020-04-25 02:31:34 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_red_flower": "2020-03-14 02:06:02 +0000"
@@ -2538,6 +2647,12 @@
     "criteria": {
       "has_item_1": "2020-04-05 17:12:03 +0100",
       "has_item_0": "2020-03-29 20:45:15 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:importing": {
+    "criteria": {
+      "disk_drive_in_inventory": "2020-04-23 11:21:11 +0100"
     },
     "done": true
   },
@@ -2646,6 +2761,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-04-18 03:05:03 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:portable_storage": {
+    "criteria": {
+      "grid_in_inventory": "2020-04-23 12:28:37 +0100"
     },
     "done": true
   },

@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "fp:not_diamond": {
+    "criteria": {
+      "tin_ore": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "buildcraftenergy:engine": {
     "criteria": {
       "redstone_engine": "2020-03-16 23:09:24 +0000"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2020-04-23 11:38:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-31 22:50:53 +0100"
@@ -330,6 +342,12 @@
     },
     "done": true
   },
+  "fp:mainboard": {
+    "criteria": {
+      "mainboard": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-14 02:20:16 +0000"
@@ -339,6 +357,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2020-03-15 19:25:00 +0000"
+    },
+    "done": true
+  },
+  "fp:glowmelo": {
+    "criteria": {
+      "pickup_glowmelow": "2020-04-25 02:31:45 +0100"
     },
     "done": true
   },
@@ -357,6 +381,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-14 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2020-04-23 11:38:39 +0100"
     },
     "done": true
   },
@@ -563,6 +593,9 @@
       "shulker": "2020-03-24 00:24:31 +0000",
       "zombie_villager": "2020-04-14 22:34:17 +0100",
       "magma_cube": "2020-03-29 06:12:16 +0100",
+      "slime": "2020-04-25 00:06:50 +0100",
+      "vindicator": "2020-04-25 00:56:21 +0100",
+      "skeleton": "2020-04-25 23:37:06 +0100",
       "blaze": "2020-04-09 23:57:44 +0100",
       "silverfish": "2020-03-26 23:29:41 +0000",
       "zombie": "2020-04-14 22:34:22 +0100"
@@ -686,6 +719,12 @@
   "mist:recipes/items/torch_from_bio_shale": {
     "criteria": {
       "has_item": "2020-04-04 01:29:35 +0100"
+    },
+    "done": true
+  },
+  "fp:sushi": {
+    "criteria": {
+      "fishblock": "2020-04-25 02:31:45 +0100"
     },
     "done": true
   },
@@ -1267,6 +1306,12 @@
     },
     "done": true
   },
+  "mist:recipes/blocks/clay_red": {
+    "criteria": {
+      "has_item": "2020-04-25 01:32:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2020-03-21 21:08:47 +0000"
@@ -1508,9 +1553,21 @@
     },
     "done": true
   },
+  "fp:neon_energy": {
+    "criteria": {
+      "generator": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2020-03-21 00:10:00 +0000"
+    },
+    "done": true
+  },
+  "fp:menelaus": {
+    "criteria": {
+      "on_menelaus": "2020-04-25 02:31:45 +0100"
     },
     "done": true
   },
@@ -1695,6 +1752,13 @@
     },
     "done": true
   },
+  "fp:labor": {
+    "criteria": {
+      "scanner": "2020-04-25 02:31:45 +0100",
+      "forscher": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-14 02:20:16 +0000"
@@ -1718,6 +1782,13 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "fp:metalhaltig": {
+    "criteria": {
+      "gravel": "2020-04-25 02:31:45 +0100",
+      "dirt": "2020-04-25 02:31:45 +0100"
     },
     "done": true
   },
@@ -1781,6 +1852,12 @@
     },
     "done": true
   },
+  "fp:crys_bioterium": {
+    "criteria": {
+      "bioterium": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2020-03-14 04:06:04 +0000"
@@ -1832,6 +1909,12 @@
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-04-25 23:45:05 +0100"
     },
     "done": true
   },
@@ -2047,9 +2130,10 @@
   },
   "mist:recipes/blocks/sponge_clear": {
     "criteria": {
+      "has_item_1": "2020-04-25 01:34:31 +0100",
       "has_item_2": "2020-03-18 23:53:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -2144,6 +2228,12 @@
     },
     "done": true
   },
+  "fp:tyros": {
+    "criteria": {
+      "on_tyors": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2020-04-08 22:22:52 +0100"
@@ -2186,6 +2276,12 @@
     },
     "done": true
   },
+  "fp:crys_retium": {
+    "criteria": {
+      "retium": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-28 02:50:34 +0000"
@@ -2204,6 +2300,12 @@
     },
     "done": false
   },
+  "fp:need_bucket": {
+    "criteria": {
+      "industrie_ofen": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-03-19 00:55:18 +0000"
@@ -2219,6 +2321,12 @@
   "rftools:storepower": {
     "criteria": {
       "placed_powercell": "2020-04-23 02:10:00 +0100"
+    },
+    "done": true
+  },
+  "jaff:husbandry/fish_tank": {
+    "criteria": {
+      "iron_pickaxe": "2020-04-25 01:33:38 +0100"
     },
     "done": true
   },
@@ -2307,6 +2415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-04-23 12:25:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-04-09 23:57:45 +0100"
@@ -2370,6 +2484,12 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2020-03-14 02:52:45 +0000"
+    },
+    "done": true
+  },
+  "fp:laserbow": {
+    "criteria": {
+      "optain_laserbow": "2020-04-25 02:31:45 +0100"
     },
     "done": true
   },
