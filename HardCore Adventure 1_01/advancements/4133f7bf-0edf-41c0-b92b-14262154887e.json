@@ -1021,6 +1021,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-04-27 00:07:38 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ruby_block": {
     "criteria": {
       "has_at_least_9_gems": "2020-03-26 20:22:37 +0000"
