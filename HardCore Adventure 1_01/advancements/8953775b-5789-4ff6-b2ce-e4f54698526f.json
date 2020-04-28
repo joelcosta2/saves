@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-04-27 12:48:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-14 02:20:16 +0000"
@@ -719,6 +725,12 @@
   "mist:recipes/items/torch_from_bio_shale": {
     "criteria": {
       "has_item": "2020-04-04 01:29:35 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/tanzanite": {
+    "criteria": {
+      "has_the_recipe": "2020-04-27 12:48:33 +0100"
     },
     "done": true
   },
@@ -1627,6 +1639,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2020-04-28 10:55:18 +0100",
       "baked_potato": "2020-03-22 15:30:59 +0000",
       "cooked_cod": "2020-03-21 21:18:32 +0000",
       "raw_salmon": "2020-04-11 16:42:20 +0100",
@@ -1993,6 +2006,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/peridot": {
+    "criteria": {
+      "has_the_recipe": "2020-04-27 12:48:33 +0100"
     },
     "done": true
   },
@@ -2503,6 +2522,12 @@
     "criteria": {
       "has_item_1": "2020-04-04 01:29:35 +0100",
       "has_item_0": "2020-04-10 01:44:31 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/peridot_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-04-27 12:48:33 +0100"
     },
     "done": true
   },
