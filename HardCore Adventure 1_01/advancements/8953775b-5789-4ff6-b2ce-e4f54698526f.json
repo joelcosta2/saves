@@ -402,6 +402,12 @@
     },
     "done": true
   },
+  "botania:main/mana_cookie_eat": {
+    "criteria": {
+      "cookie": "2020-05-03 23:11:04 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/crafting_table_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2020-03-14 02:15:01 +0000"
@@ -671,6 +677,12 @@
   "biomesoplenty:recipes/buildingblocks/mud": {
     "criteria": {
       "has_item": "2020-03-14 18:40:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/amethyst": {
+    "criteria": {
+      "has_the_recipe": "2020-05-03 04:28:37 +0100"
     },
     "done": true
   },
@@ -976,6 +988,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2020-05-01 20:15:55 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/ruby_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-05-03 04:28:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-21 00:09:57 +0000"
@@ -1057,6 +1081,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/ruby": {
+    "criteria": {
+      "has_the_recipe": "2020-05-03 04:28:37 +0100"
     },
     "done": true
   },
@@ -1836,6 +1866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-05-01 23:08:26 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-03-15 19:43:10 +0000"
@@ -2209,6 +2245,12 @@
       "has_item_1": "2020-03-21 00:09:57 +0000",
       "has_item_2": "2020-04-01 23:17:06 +0100",
       "has_item_3": "2020-04-04 01:44:50 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/amethyst_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2020-05-03 04:28:37 +0100"
     },
     "done": true
   },

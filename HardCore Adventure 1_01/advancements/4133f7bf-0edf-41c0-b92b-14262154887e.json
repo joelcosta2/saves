@@ -306,9 +306,21 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/crystalline": {
+    "criteria": {
+      "warp": "2020-05-03 22:26:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-03-15 19:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-05-01 22:53:36 +0100"
     },
     "done": true
   },
@@ -405,6 +417,12 @@
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-19 00:29:50 +0000"
+    },
+    "done": true
+  },
+  "botania:main/mana_cookie_eat": {
+    "criteria": {
+      "cookie": "2020-05-03 19:31:07 +0100"
     },
     "done": true
   },
@@ -596,6 +614,12 @@
   "biomesoplenty:recipes/buildingblocks/topaz_block": {
     "criteria": {
       "has_at_least_9_gems": "2020-03-26 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2020-05-01 22:53:36 +0100"
     },
     "done": true
   },
@@ -843,6 +867,12 @@
     "criteria": {
       "has_item_1": "2020-04-05 17:07:43 +0100",
       "has_item_0": "2020-03-29 20:45:15 +0100"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/suitedup": {
+    "criteria": {
+      "suited": "2020-05-03 19:17:02 +0100"
     },
     "done": true
   },
@@ -1507,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-05-02 00:48:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
@@ -1558,6 +1594,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2020-03-22 01:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2020-05-02 00:48:01 +0100"
     },
     "done": true
   },
@@ -1914,6 +1956,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2020-04-25 23:26:50 +0100"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/holographic": {
+    "criteria": {
+      "warp": "2020-05-03 03:41:50 +0100"
     },
     "done": true
   },
