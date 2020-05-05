@@ -9166,8 +9166,8 @@
         },
         {
           "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
-          "timestamp": 37584120,
-          "claimed": false
+          "timestamp": 38935235,
+          "claimed": true
         }
       ],
       "tasks": [
@@ -9680,21 +9680,18 @@
       "completed": [
         {
           "uuid": "4133f7bf-0edf-41c0-b92b-14262154887e",
-          "timestamp": 37434022,
+          "timestamp": 38894954,
           "claimed": false
         },
         {
           "uuid": "8953775b-5789-4ff6-b2ce-e4f54698526f",
-          "timestamp": 37434022,
+          "timestamp": 38894954,
           "claimed": false
         }
       ],
       "tasks": [
         {
-          "completeUsers": [
-            "4133f7bf-0edf-41c0-b92b-14262154887e",
-            "8953775b-5789-4ff6-b2ce-e4f54698526f"
-          ],
+          "completeUsers": [],
           "taskID": "bq_standard:checkbox",
           "index": 0
         }
