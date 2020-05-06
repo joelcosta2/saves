@@ -1977,6 +1977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-05-05 23:57:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-03-15 22:44:45 +0000"
@@ -2034,6 +2040,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/warp": {
+    "criteria": {
+      "warp": "2020-05-05 23:27:05 +0100"
     },
     "done": true
   },
@@ -2293,6 +2305,12 @@
     "criteria": {
       "has_item_1": "2020-04-05 17:13:36 +0100",
       "has_item_2": "2020-03-20 23:34:45 +0000"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/dilithium": {
+    "criteria": {
+      "dilithium": "2020-05-06 00:10:09 +0100"
     },
     "done": true
   },

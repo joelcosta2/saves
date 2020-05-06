@@ -819,6 +819,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/suitedup": {
+    "criteria": {
+      "suited": "2020-05-06 00:58:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_gray_dye": "2020-03-15 18:50:42 +0000"
