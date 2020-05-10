@@ -227,9 +227,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_golden_boots": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-03-19 22:36:09 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
     },
     "done": true
   },
@@ -257,6 +269,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_ethereal": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
@@ -272,6 +290,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_at_least_9_emerald": "2020-03-24 18:32:47 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2020-05-09 22:44:49 +0100"
     },
     "done": true
   },
@@ -348,11 +372,38 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/hephaestite_block_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "desert_defiled": "2020-05-09 22:44:19 +0100",
+      "forest_vilespine": "2020-05-09 22:41:59 +0100",
+      "hills_defiled": "2020-05-09 22:39:53 +0100",
+      "forest_tenebra": "2020-05-09 22:42:12 +0100",
+      "ice_plains_defiled": "2020-05-09 22:42:16 +0100",
+      "swamp_defiled": "2020-05-09 22:44:35 +0100",
+      "plains_defiled": "2020-05-09 23:08:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-03-14 02:15:04 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "shambler_twisted": "2020-05-09 22:47:02 +0100",
+      "scuttler": "2020-05-09 22:41:27 +0100",
+      "slime_defiled": "2020-05-09 22:44:36 +0100",
+      "host": "2020-05-10 00:17:04 +0100"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
@@ -466,6 +517,7 @@
     "criteria": {
       "oasis": "2020-04-14 22:58:22 +0100",
       "xeric_shrubland": "2020-04-14 22:56:43 +0100",
+      "tropical_rainforest": "2020-05-10 00:27:24 +0100",
       "volcanic_island": "2020-03-14 01:54:47 +0000",
       "quagmire": "2020-04-14 22:25:11 +0100",
       "outback": "2020-04-14 22:56:20 +0100",
@@ -482,6 +534,18 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-03-14 02:06:00 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/umbrium_helmet": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-05-07 22:41:58 +0100"
     },
     "done": true
   },
@@ -536,6 +600,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2020-03-21 01:29:38 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
     },
     "done": true
   },
@@ -625,13 +695,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-05-07 22:45:58 +0100",
       "stray": "2020-04-14 22:45:54 +0100",
       "zombie_villager": "2020-04-14 22:32:31 +0100",
       "magma_cube": "2020-04-06 19:26:37 +0100",
       "slime": "2020-04-21 00:18:29 +0100",
       "blaze": "2020-03-28 04:23:29 +0000",
       "silverfish": "2020-03-24 00:40:34 +0000",
-      "zombie": "2020-04-14 22:32:30 +0100"
+      "zombie": "2020-04-14 22:32:30 +0100",
+      "ghast": "2020-05-07 22:41:52 +0100",
+      "enderman": "2020-05-08 00:06:30 +0100"
     },
     "done": false
   },
@@ -656,6 +729,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-03-29 22:23:47 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
     },
     "done": true
   },
@@ -704,6 +783,12 @@
   "biomesoplenty:recipes/misc/amber": {
     "criteria": {
       "has_the_recipe": "2020-03-26 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "mist:story/start": {
+    "criteria": {
+      "start": "2020-05-10 00:27:24 +0100"
     },
     "done": true
   },
@@ -779,9 +864,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_sandstone": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:45 +0100"
+    },
+    "done": true
+  },
   "mist:recipes/items/torch_from_bio_shale": {
     "criteria": {
       "has_item": "2020-04-05 17:12:03 +0100"
+    },
+    "done": true
+  },
+  "mist:story/root": {
+    "criteria": {
+      "root": "2020-05-10 00:27:24 +0100"
     },
     "done": true
   },
@@ -800,6 +897,12 @@
   "fp:sushi": {
     "criteria": {
       "fishblock": "2020-04-15 00:04:32 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -833,6 +936,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/umbrium_leggings": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
     "criteria": {
       "has_lapis": "2020-04-05 20:19:47 +0100"
@@ -848,6 +957,12 @@
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/sandstone_defiled": {
+    "criteria": {
+      "has_material": "2020-05-09 22:44:25 +0100"
     },
     "done": true
   },
@@ -885,6 +1000,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2020-04-19 03:04:08 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_shovel": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -1018,6 +1139,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-03-29 03:31:06 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/hephaestite_block": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -1177,6 +1304,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/scarlite_block": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_golden_helmet": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-03-28 23:13:30 +0000"
@@ -1198,6 +1337,12 @@
   "mist:recipes/blocks/filter_coal_block": {
     "criteria": {
       "has_item": "2020-04-05 17:07:43 +0100"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/flightofpheonix": {
+    "criteria": {
+      "flightofpheonix": "2020-05-07 01:33:15 +0100"
     },
     "done": true
   },
@@ -1273,6 +1418,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2020-03-14 05:00:13 +0000"
@@ -1285,9 +1436,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/sandstone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2020-04-25 23:28:55 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_sword": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -1297,9 +1460,27 @@
     },
     "done": true
   },
+  "defiledlands:main/root": {
+    "criteria": {
+      "hills_defiled": "2020-05-09 22:39:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-28 01:12:57 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_nugget_combine": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:37 +0100"
     },
     "done": true
   },
@@ -1411,15 +1592,33 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2020-04-05 20:20:24 +0100"
     },
     "done": true
   },
+  "defiledlands:recipes/tools/umbrium_axe": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2020-03-20 23:34:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_stairs": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
     },
     "done": true
   },
@@ -1591,6 +1790,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2020-03-22 01:32:59 +0000"
@@ -1618,6 +1823,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2020-03-15 22:46:33 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -1688,9 +1899,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/umbrium_block_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2020-03-14 02:15:04 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_golden_leggings": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
     },
     "done": true
   },
@@ -1817,6 +2040,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
@@ -1889,6 +2118,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-03-19 01:09:58 +0000"
@@ -1899,6 +2134,18 @@
     "criteria": {
       "scanner": "2020-04-15 00:48:44 +0100",
       "forscher": "2020-04-15 00:53:14 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_pickaxe": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -2073,6 +2320,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
+    },
+    "done": true
+  },
   "refinedstorage:upgrading_your_grid": {
     "criteria": {
       "grid_in_inventory": "2020-04-22 23:33:24 +0100"
@@ -2085,6 +2338,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-19 00:29:50 +0000"
@@ -2094,6 +2353,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2020-03-15 22:45:59 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_golden_chestplate": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
     },
     "done": true
   },
@@ -2157,6 +2422,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/defilement_powder": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:20 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_pump": {
     "criteria": {
       "craft_hammer": "2020-04-04 23:44:06 +0100"
@@ -2178,6 +2449,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-19 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:43 +0100"
     },
     "done": true
   },
@@ -2235,9 +2518,21 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/givingitallshesgot": {
+    "criteria": {
+      "givingitallshesgot": "2020-05-07 01:33:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-03-19 19:29:15 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/umbrium_chestplate": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -2256,6 +2551,12 @@
   "mist:story/mask": {
     "criteria": {
       "mask": "2020-04-04 01:55:16 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2020-05-09 22:44:23 +0100"
     },
     "done": true
   },
@@ -2320,6 +2621,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/umbrium_boots": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-03-16 02:02:43 +0000"
@@ -2357,6 +2664,12 @@
     },
     "done": true
   },
+  "defiledlands:main/umbrium": {
+    "criteria": {
+      "umbrium": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-03-19 00:28:51 +0000"
@@ -2380,6 +2693,12 @@
   "biomesoplenty:recipes/buildingblocks/amethyst_block": {
     "criteria": {
       "has_at_least_9_gems": "2020-03-26 20:22:37 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:37 +0100"
     },
     "done": true
   },
@@ -2437,6 +2756,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/sandstone_defiled_stairs": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2020-04-18 02:58:15 +0100"
@@ -2446,6 +2771,12 @@
   "jaff:recipes/jaff/golden_fishing_rod": {
     "criteria": {
       "has_stick": "2020-03-14 02:30:43 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbrium_hoe": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -2470,6 +2801,18 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-14 18:57:12 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_nugget": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/umbrium_block": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -2550,6 +2893,18 @@
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2020-03-14 02:24:03 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_sandstone_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:45 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2020-05-09 23:06:47 +0100"
     },
     "done": true
   },
@@ -2637,9 +2992,27 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2020-03-29 20:18:20 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/umbra_blaster": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },
@@ -2667,15 +3040,33 @@
     },
     "done": true
   },
+  "mist:story/full_set": {
+    "criteria": {
+      "full_set": "2020-05-08 00:06:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:14 +0000"
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs": {
+    "criteria": {
+      "has_material": "2020-05-09 22:42:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-28 01:12:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
+    "criteria": {
+      "has_item": "2020-05-07 23:53:13 +0100"
     },
     "done": true
   },
@@ -2688,6 +3079,12 @@
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "craft_hammer": "2020-03-28 05:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2020-05-07 23:37:32 +0100"
     },
     "done": true
   },
@@ -2812,6 +3209,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/scarlite_block_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2020-05-07 23:37:32 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-19 00:29:50 +0000"
@@ -2926,6 +3335,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/baubles/phytoprostasia_amulet": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_flower": "2020-03-14 01:56:34 +0000"
@@ -2947,6 +3362,12 @@
   "mist:story/first_breath": {
     "criteria": {
       "first_breath": "2020-04-01 23:52:36 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2020-05-10 00:52:44 +0100"
     },
     "done": true
   },

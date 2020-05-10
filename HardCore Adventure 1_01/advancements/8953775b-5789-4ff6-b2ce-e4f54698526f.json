@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-05-10 00:53:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
@@ -227,9 +233,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_golden_boots": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2020-03-16 01:52:43 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:06 +0100"
     },
     "done": true
   },
@@ -275,9 +293,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2020-05-09 22:40:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-31 22:50:53 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2020-05-07 23:39:12 +0100"
     },
     "done": true
   },
@@ -312,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2020-05-09 23:33:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:20 +0000"
@@ -330,9 +366,31 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "desert_defiled": "2020-05-09 22:41:05 +0100",
+      "forest_vilespine": "2020-05-09 22:35:38 +0100",
+      "hills_defiled": "2020-05-09 22:32:55 +0100",
+      "forest_tenebra": "2020-05-09 22:43:52 +0100",
+      "ice_plains_defiled": "2020-05-09 22:43:00 +0100",
+      "swamp_defiled": "2020-05-09 22:36:24 +0100",
+      "plains_defiled": "2020-05-09 22:41:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2020-03-14 02:15:01 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "shambler_twisted": "2020-05-09 22:46:00 +0100",
+      "scuttler": "2020-05-09 22:42:09 +0100",
+      "slime_defiled": "2020-05-09 22:40:09 +0100",
+      "host": "2020-05-09 22:41:53 +0100",
+      "shambler": "2020-05-09 22:41:01 +0100"
     },
     "done": true
   },
@@ -454,16 +512,25 @@
     "criteria": {
       "oasis": "2020-04-14 23:07:14 +0100",
       "xeric_shrubland": "2020-04-14 22:42:33 +0100",
+      "tropical_rainforest": "2020-05-10 00:35:37 +0100",
       "volcanic_island": "2020-03-14 01:52:49 +0000",
       "quagmire": "2020-04-14 22:25:10 +0100",
       "outback": "2020-04-14 22:56:55 +0100",
-      "wasteland": "2020-04-14 22:26:25 +0100"
+      "alps": "2020-05-08 00:25:19 +0100",
+      "wasteland": "2020-04-14 22:26:25 +0100",
+      "bamboo_forest": "2020-05-10 00:43:46 +0100"
     },
     "done": false
   },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_double_plant": "2020-03-14 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2020-05-07 23:07:54 +0100"
     },
     "done": true
   },
@@ -521,6 +588,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2020-03-14 02:15:01 +0000"
@@ -563,6 +636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2020-05-07 00:35:57 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/food/shroom_salad": {
     "criteria": {
       "has_bowl": "2020-04-06 23:53:25 +0100"
@@ -599,8 +678,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2020-05-09 23:33:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2020-05-07 22:47:23 +0100",
       "stray": "2020-04-14 22:34:23 +0100",
       "shulker": "2020-03-24 00:24:31 +0000",
       "zombie_villager": "2020-04-14 22:34:17 +0100",
@@ -610,7 +696,8 @@
       "skeleton": "2020-04-25 23:37:06 +0100",
       "blaze": "2020-04-09 23:57:44 +0100",
       "silverfish": "2020-03-26 23:29:41 +0000",
-      "zombie": "2020-04-14 22:34:22 +0100"
+      "zombie": "2020-04-14 22:34:22 +0100",
+      "ghast": "2020-05-07 22:28:41 +0100"
     },
     "done": false
   },
@@ -623,6 +710,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-03-28 05:22:17 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:06 +0100"
     },
     "done": true
   },
@@ -665,6 +758,12 @@
   "biomesoplenty:recipes/misc/amber": {
     "criteria": {
       "has_the_recipe": "2020-04-12 19:33:29 +0100"
+    },
+    "done": true
+  },
+  "mist:story/start": {
+    "criteria": {
+      "start": "2020-05-10 00:35:37 +0100"
     },
     "done": true
   },
@@ -740,6 +839,12 @@
     },
     "done": true
   },
+  "mist:story/root": {
+    "criteria": {
+      "root": "2020-05-10 00:35:37 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2020-04-27 12:48:33 +0100"
@@ -797,6 +902,12 @@
   "biomesoplenty:recipes/transportation/boat_fir": {
     "criteria": {
       "entered_water": "2020-03-14 02:52:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/sandstone_defiled": {
+    "criteria": {
+      "has_material": "2020-05-09 22:59:59 +0100"
     },
     "done": true
   },
@@ -958,6 +1069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2020-05-07 23:39:12 +0100"
+    },
+    "done": true
+  },
   "mist:story/night_walk": {
     "criteria": {
       "night_walk": "2020-04-04 01:08:56 +0100"
@@ -997,6 +1114,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-05-01 20:15:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2020-05-07 00:35:57 +0100"
     },
     "done": true
   },
@@ -1114,6 +1237,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_golden_helmet": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2020-03-28 05:22:17 +0000"
@@ -1135,6 +1264,12 @@
   "mist:recipes/blocks/filter_coal_block": {
     "criteria": {
       "has_item": "2020-04-04 17:22:18 +0100"
+    },
+    "done": true
+  },
+  "advancedrocketry:normal/flightofpheonix": {
+    "criteria": {
+      "flightofpheonix": "2020-05-07 01:33:15 +0100"
     },
     "done": true
   },
@@ -1189,11 +1324,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "frozen_river": "2020-05-08 00:24:24 +0100",
       "mesa_rock": "2020-04-14 22:27:03 +0100",
+      "beaches": "2020-05-10 00:43:00 +0100",
       "desert_hills": "2020-04-14 22:58:30 +0100",
       "mesa": "2020-04-14 22:25:30 +0100",
+      "jungle_hills": "2020-05-10 00:50:37 +0100",
+      "jungle_edge": "2020-05-10 00:44:37 +0100",
       "mesa_clear_rock": "2020-04-14 22:29:58 +0100",
       "river": "2020-04-14 23:16:24 +0100",
+      "jungle": "2020-05-10 00:43:38 +0100",
       "desert": "2020-04-14 22:25:35 +0100"
     },
     "done": false
@@ -1234,9 +1374,21 @@
     },
     "done": true
   },
+  "defiledlands:main/root": {
+    "criteria": {
+      "hills_defiled": "2020-05-09 22:32:55 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-28 02:50:34 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks": {
+    "criteria": {
+      "has_material": "2020-05-09 23:17:41 +0100"
     },
     "done": true
   },
@@ -1351,6 +1503,12 @@
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2020-04-19 00:37:46 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_stairs": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
     },
     "done": true
   },
@@ -1528,6 +1686,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 23:17:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
       "has_prismarine_shard": "2020-03-25 21:57:17 +0000"
@@ -1625,6 +1789,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_golden_leggings": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:22 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-03-14 02:52:45 +0000"
@@ -1676,6 +1846,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2020-04-28 10:55:18 +0100",
+      "chorus_fruit": "2020-05-07 23:59:57 +0100",
       "baked_potato": "2020-03-22 15:30:59 +0000",
       "beetroot_soup": "2020-04-28 22:46:13 +0100",
       "cooked_cod": "2020-03-21 21:18:32 +0000",
@@ -1748,6 +1919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2020-05-10 00:53:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2020-03-15 20:13:57 +0000"
@@ -1796,6 +1973,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2020-03-25 20:18:19 +0000"
@@ -1806,6 +1989,12 @@
     "criteria": {
       "scanner": "2020-04-25 02:31:45 +0100",
       "forscher": "2020-04-25 02:31:45 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:06 +0100"
     },
     "done": true
   },
@@ -1956,9 +2145,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
     },
     "done": true
   },
@@ -1971,6 +2172,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2020-04-25 23:45:05 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_golden_chestplate": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:22 +0100"
     },
     "done": true
   },
@@ -2022,6 +2229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2020-05-07 23:39:12 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
@@ -2031,6 +2244,12 @@
   "immersiveengineering:main/craft_workbench": {
     "criteria": {
       "craft_hammer": "2020-04-01 23:38:24 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/defilement_powder": {
+    "criteria": {
+      "has_material": "2020-05-09 22:40:16 +0100"
     },
     "done": true
   },
@@ -2073,6 +2292,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-03-29 05:35:38 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2020-05-09 22:36:20 +0100"
     },
     "done": true
   },
@@ -2130,6 +2361,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/givingitallshesgot": {
+    "criteria": {
+      "givingitallshesgot": "2020-05-07 01:33:15 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2020-03-16 22:57:30 +0000"
@@ -2145,6 +2382,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/arrow_vilespine": {
+    "criteria": {
+      "has_material": "2020-05-09 23:00:34 +0100"
     },
     "done": true
   },
@@ -2260,6 +2503,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2020-05-09 23:17:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-05-07 23:59:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2020-03-21 00:10:00 +0000"
@@ -2293,6 +2548,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2020-03-14 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2020-05-07 00:35:57 +0100"
     },
     "done": true
   },
@@ -2417,6 +2678,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2020-05-09 22:41:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-14 03:13:55 +0000"
@@ -2519,9 +2786,21 @@
     },
     "done": true
   },
+  "mist:story/full_set": {
+    "criteria": {
+      "full_set": "2020-05-08 00:09:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-16 01:14:20 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs": {
+    "criteria": {
+      "has_material": "2020-05-09 23:17:41 +0100"
     },
     "done": true
   },
@@ -2655,6 +2934,12 @@
   "rftools:clearvision": {
     "criteria": {
       "placed_screen": "2020-04-06 00:28:03 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/tenebra_planks": {
+    "criteria": {
+      "has_material": "2020-05-09 22:58:06 +0100"
     },
     "done": true
   },
