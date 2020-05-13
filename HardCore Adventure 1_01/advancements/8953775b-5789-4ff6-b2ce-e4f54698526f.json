@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2020-03-29 03:45:08 +0100"
@@ -366,6 +372,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
+    },
+    "done": true
+  },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
       "desert_defiled": "2020-05-09 22:41:05 +0100",
@@ -515,10 +527,13 @@
       "tropical_rainforest": "2020-05-10 00:35:37 +0100",
       "volcanic_island": "2020-03-14 01:52:49 +0000",
       "quagmire": "2020-04-14 22:25:10 +0100",
+      "coniferous_forest": "2020-05-10 02:16:27 +0100",
       "outback": "2020-04-14 22:56:55 +0100",
       "alps": "2020-05-08 00:25:19 +0100",
       "wasteland": "2020-04-14 22:26:25 +0100",
-      "bamboo_forest": "2020-05-10 00:43:46 +0100"
+      "snowy_forest": "2020-05-10 02:50:50 +0100",
+      "bamboo_forest": "2020-05-10 00:43:46 +0100",
+      "meadow": "2020-05-10 02:03:54 +0100"
     },
     "done": false
   },
@@ -707,6 +722,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-05-13 01:17:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-03-28 05:22:17 +0000"
@@ -875,6 +896,12 @@
     },
     "done": true
   },
+  "defiledlands:main/summon_destroyer": {
+    "criteria": {
+      "summoned": "2020-05-10 01:35:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-03-19 00:55:18 +0000"
@@ -1006,6 +1033,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-16 22:59:09 +0000"
+    },
+    "done": true
+  },
+  "voidcraft:root": {
+    "criteria": {
+      "vademecum": "2020-05-10 02:54:12 +0100"
     },
     "done": true
   },
@@ -1297,6 +1330,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-03-28 22:29:55 +0000"
@@ -1326,6 +1365,7 @@
     "criteria": {
       "frozen_river": "2020-05-08 00:24:24 +0100",
       "mesa_rock": "2020-04-14 22:27:03 +0100",
+      "birch_forest": "2020-05-10 02:02:25 +0100",
       "beaches": "2020-05-10 00:43:00 +0100",
       "desert_hills": "2020-04-14 22:58:30 +0100",
       "mesa": "2020-04-14 22:25:30 +0100",
@@ -1807,6 +1847,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
+    },
+    "done": true
+  },
   "fp:crys_neon": {
     "criteria": {
       "neon": "2020-04-14 22:43:51 +0100"
@@ -2017,6 +2063,12 @@
       "bred_cow": "2020-04-12 01:59:56 +0100"
     },
     "done": false
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -2497,6 +2549,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-05-10 03:05:59 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/amethyst_block": {
     "criteria": {
       "has_at_least_9_gems": "2020-05-03 04:28:37 +0100"
@@ -2717,6 +2775,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-04-09 23:57:45 +0100"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
     },
     "done": true
   },
@@ -2955,6 +3019,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "craft_hammer": "2020-05-10 03:04:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-21 00:11:59 +0000"
@@ -3030,6 +3100,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-28 02:50:34 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2020-05-10 01:37:29 +0100"
     },
     "done": true
   },

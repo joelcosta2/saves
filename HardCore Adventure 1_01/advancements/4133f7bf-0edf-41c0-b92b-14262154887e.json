@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/the_ravager": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2020-03-29 05:35:06 +0100"
@@ -378,6 +384,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_shovel": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
+  },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
       "desert_defiled": "2020-05-09 22:44:19 +0100",
@@ -516,12 +528,29 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "oasis": "2020-04-14 22:58:22 +0100",
+      "shrubland": "2020-05-12 23:23:29 +0100",
       "xeric_shrubland": "2020-04-14 22:56:43 +0100",
       "tropical_rainforest": "2020-05-10 00:27:24 +0100",
+      "alps_foothills": "2020-05-10 01:58:47 +0100",
+      "bayou": "2020-05-10 01:55:07 +0100",
       "volcanic_island": "2020-03-14 01:54:47 +0000",
       "quagmire": "2020-04-14 22:25:11 +0100",
+      "cold_desert": "2020-05-10 02:00:48 +0100",
+      "coral_reef": "2020-05-12 23:23:52 +0100",
+      "orchard": "2020-05-10 01:57:01 +0100",
+      "coniferous_forest": "2020-05-10 03:19:21 +0100",
       "outback": "2020-04-14 22:56:20 +0100",
-      "wasteland": "2020-04-14 22:25:59 +0100"
+      "alps": "2020-05-10 01:58:23 +0100",
+      "wasteland": "2020-04-14 22:25:59 +0100",
+      "redwood_forest": "2020-05-12 23:08:35 +0100",
+      "snowy_forest": "2020-05-10 01:57:53 +0100",
+      "dead_forest": "2020-05-10 01:57:50 +0100",
+      "bamboo_forest": "2020-05-10 01:54:54 +0100",
+      "meadow": "2020-05-10 02:03:27 +0100",
+      "grassland": "2020-05-10 01:57:24 +0100",
+      "tundra": "2020-05-10 01:58:07 +0100",
+      "grove": "2020-05-12 23:19:08 +0100",
+      "gravel_beach": "2020-05-12 23:11:50 +0100"
     },
     "done": false
   },
@@ -726,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-05-10 03:40:52 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2020-03-29 22:23:47 +0100"
@@ -924,6 +959,12 @@
     },
     "done": true
   },
+  "defiledlands:main/summon_destroyer": {
+    "criteria": {
+      "summoned": "2020-05-10 01:35:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-03-23 23:10:31 +0000"
@@ -1073,6 +1114,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-21 00:26:26 +0000"
+    },
+    "done": true
+  },
+  "voidcraft:root": {
+    "criteria": {
+      "vademecum": "2020-05-10 02:32:51 +0100"
     },
     "done": true
   },
@@ -1370,6 +1417,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_pickaxe": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2020-03-29 18:57:29 +0100"
@@ -1397,11 +1450,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "frozen_river": "2020-05-10 01:57:58 +0100",
+      "ice_flats": "2020-05-10 02:19:13 +0100",
       "mesa_rock": "2020-04-14 22:28:21 +0100",
+      "forest": "2020-05-10 01:56:41 +0100",
+      "birch_forest": "2020-05-10 01:57:20 +0100",
+      "deep_ocean": "2020-05-12 23:23:37 +0100",
+      "beaches": "2020-05-12 23:19:43 +0100",
       "desert_hills": "2020-04-14 22:31:39 +0100",
       "mesa": "2020-04-14 22:25:29 +0100",
+      "forest_hills": "2020-05-12 22:54:39 +0100",
+      "plains": "2020-05-10 01:55:56 +0100",
+      "jungle_edge": "2020-05-10 01:54:53 +0100",
       "mesa_clear_rock": "2020-04-14 23:02:10 +0100",
+      "birch_forest_hills": "2020-05-10 02:02:08 +0100",
+      "taiga_cold": "2020-05-12 23:00:04 +0100",
+      "ocean": "2020-05-12 23:09:21 +0100",
       "river": "2020-04-15 20:39:14 +0100",
+      "jungle": "2020-05-10 01:54:47 +0100",
       "desert": "2020-04-14 22:27:08 +0100"
     },
     "done": false
@@ -1730,6 +1796,12 @@
     },
     "done": true
   },
+  "voidcraft:familiarity": {
+    "criteria": {
+      "familiarity": "2020-05-10 06:06:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2020-03-19 00:28:51 +0000"
@@ -1929,6 +2001,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/ravaging_axe": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
+  },
   "fp:crys_neon": {
     "criteria": {
       "neon": "2020-04-14 23:08:50 +0100"
@@ -2106,6 +2184,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-05-10 03:25:14 +0100"
+    },
+    "done": true
+  },
   "jaff:recipes/jaff/iron_hook": {
     "criteria": {
       "has_iron_nugget": "2020-03-19 22:32:59 +0000"
@@ -2168,6 +2252,12 @@
       "bred_cow": "2020-03-28 05:53:36 +0000"
     },
     "done": false
+  },
+  "defiledlands:recipes/decoration/ravaging_stone": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -2428,6 +2518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2020-05-10 03:41:33 +0100"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_pump": {
     "criteria": {
       "craft_hammer": "2020-04-04 23:44:06 +0100"
@@ -2449,6 +2545,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2020-03-19 00:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2020-05-10 03:41:33 +0100"
     },
     "done": true
   },
@@ -2687,6 +2789,12 @@
       "has_item_1": "2020-03-19 00:24:41 +0000",
       "has_item_2": "2020-03-28 02:44:45 +0000",
       "has_item_3": "2020-04-04 01:45:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2020-05-10 02:52:07 +0100"
     },
     "done": true
   },
@@ -2956,6 +3064,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/ravaging_bricks": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2020-03-19 00:24:41 +0000"
@@ -3221,6 +3335,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_railgun": {
+    "criteria": {
+      "craft_hammer": "2020-05-12 22:30:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-19 00:29:50 +0000"
@@ -3314,6 +3434,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2020-03-28 01:12:57 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/ravaging_ingot": {
+    "criteria": {
+      "has_material": "2020-05-10 01:39:44 +0100"
     },
     "done": true
   },
