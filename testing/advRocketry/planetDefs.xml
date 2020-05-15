@@ -1,0 +1,448 @@
+<galaxy>
+	<star name="Sol" temp="100" x="0" y="0" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Earth" DIMID="0" dimMapping="">
+			<isKnown>true</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Luna" DIMID="1000">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>0.0,0.0,0.0</skyColor>
+				<gravitationalMultiplier>16</gravitationalMultiplier>
+				<orbitalDistance>100</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>360000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>biomesoplenty:undergarden</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Saturn" DIMID="1012">
+			<isKnown>false</isKnown>
+			<GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+			<gas>hydrogen</gas>
+			<gas>oxygen</gas>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>130</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>10600</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Rhea" DIMID="1013">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>70</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>9000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Titan" DIMID="1014">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>100</orbitalDistance>
+				<orbitalPhi>120</orbitalPhi>
+				<rotationalPeriod>12000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Iapetus" DIMID="1015">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>240</orbitalPhi>
+				<rotationalPeriod>15000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Uranus" DIMID="1016">
+			<isKnown>false</isKnown>
+			<fogColor>0.9,0.9,0.9</fogColor>
+			<skyColor>0.0,0.9,1.0</skyColor>
+			<gravitationalMultiplier>89</gravitationalMultiplier>
+			<orbitalDistance>150</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>17250</rotationalPeriod>
+			<atmosphereDensity>10</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Titania" DIMID="1017">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>80</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>9000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Oberon" DIMID="1018">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>120</orbitalDistance>
+				<orbitalPhi>178</orbitalPhi>
+				<rotationalPeriod>13000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Mercury" DIMID="1001">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.0,0.0,0.0</skyColor>
+			<gravitationalMultiplier>38</gravitationalMultiplier>
+			<orbitalDistance>40</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>1400000</rotationalPeriod>
+			<atmosphereDensity>150</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+		</planet>
+		<planet name="Venus" DIMID="1002">
+			<isKnown>false</isKnown>
+			<fogColor>0.9,0.9,0.9</fogColor>
+			<skyColor>0.0,0.0,0.0</skyColor>
+			<gravitationalMultiplier>90</gravitationalMultiplier>
+			<orbitalDistance>72</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>2784000</rotationalPeriod>
+			<atmosphereDensity>195</atmosphereDensity>
+			<biomeIds>advancedrocketry:hotdryrock</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+		</planet>
+		<planet name="Neptune" DIMID="1019">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.0,0.5,1.0</skyColor>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>180</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>16100</rotationalPeriod>
+			<atmosphereDensity>0</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Triton" DIMID="1020">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>140</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>17000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Mars" DIMID="1003">
+			<isKnown>false</isKnown>
+			<fogColor>0.9,0.6,0.1</fogColor>
+			<skyColor>1.0,0.2,0.0</skyColor>
+			<gravitationalMultiplier>38</gravitationalMultiplier>
+			<orbitalDistance>105</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>24000</rotationalPeriod>
+			<atmosphereDensity>20</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Phobos" DIMID="1004">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>70</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>10000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Deimos" DIMID="1005">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>178</orbitalPhi>
+				<rotationalPeriod>14000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Pluto" DIMID="1021">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<orbitalDistance>190</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>153000</rotationalPeriod>
+			<atmosphereDensity>0</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Charon" DIMID="1022">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>100</gravitationalMultiplier>
+				<orbitalDistance>100</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>24000</rotationalPeriod>
+				<atmosphereDensity>100</atmosphereDensity>
+				<biomeIds>biomesoplenty:overgrown_cliffs,biomesoplenty:fungi_forest,biomesoplenty:chaparral,biomesoplenty:undergarden,biometweaker:exoria_underground</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Ceres" DIMID="1006">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>0.2,0.2,0.2</skyColor>
+			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<orbitalDistance>110</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>8880</rotationalPeriod>
+			<atmosphereDensity>30</atmosphereDensity>
+			<biomeIds>biomesoplenty:cherry_blossom_grove,biomesoplenty:flower_island,biomesoplenty:grassland,mist:up_meadow,defiledlands:swamp_defiled</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+		</planet>
+		<planet name="Jupiter" DIMID="1007">
+			<isKnown>false</isKnown>
+			<GasGiant>true</GasGiant>
+			<gas>nitrogen</gas>
+			<gas>hydrogen</gas>
+			<gas>oxygen</gas>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>120</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>9900</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+			<planet name="Io" DIMID="1008">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>70</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>8000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Europa" DIMID="1009">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>90</orbitalDistance>
+				<orbitalPhi>88</orbitalPhi>
+				<rotationalPeriod>10000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Ganymede" DIMID="1010">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>110</orbitalDistance>
+				<orbitalPhi>178</orbitalPhi>
+				<rotationalPeriod>12000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+			<planet name="Callisto" DIMID="1011">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>30</gravitationalMultiplier>
+				<orbitalDistance>130</orbitalDistance>
+				<orbitalPhi>270</orbitalPhi>
+				<rotationalPeriod>14000</rotationalPeriod>
+				<atmosphereDensity>0</atmosphereDensity>
+				<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+				<artifact>defiledlands:calling_stone 0 1</artifact>
+			</planet>
+		</planet>
+		<planet name="Eris" DIMID="1023">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>20</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>25900</rotationalPeriod>
+			<atmosphereDensity>0</atmosphereDensity>
+			<biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+			<artifact>defiledlands:calling_stone 0 1</artifact>
+		</planet>
+	</star>
+	<star name="Alpha Centauri" temp="100" x="100" y="-25" size="1.0" numPlanets="0" numGasGiants="0">
+		<planet name="Endimia" DIMID="1200">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>10</gravitationalMultiplier>
+			<orbitalDistance>200</orbitalDistance>
+			<orbitalPhi>105</orbitalPhi>
+			<rotationalPeriod>700000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<biomeIds>minecraft:sky</biomeIds>
+			<artifact>minecraft:ghast_tear 0 1</artifact>
+		</planet>
+		<planet name="Ignitia" DIMID="1201">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,0.0,0.0</fogColor>
+			<skyColor>1.0,0.0,0.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>40</orbitalDistance>
+			<orbitalPhi>140</orbitalPhi>
+			<rotationalPeriod>5000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<biomeIds>minecraft:hell</biomeIds>
+			<artifact>biomesoplenty:terrestrial_artifact 0 1</artifact>
+		</planet>
+		<planet name="Holoria" DIMID="1202" dimMapping="">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>10</gravitationalMultiplier>
+			<orbitalDistance>90</orbitalDistance>
+			<orbitalPhi>175</orbitalPhi>
+			<rotationalPeriod>30000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>biomesoplenty:crystal_shard 0 1</artifact>
+		</planet>
+		<planet name="Owenia" DIMID="1203" dimMapping="">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,0.4,0.0</fogColor>
+			<skyColor>1.0,0.4,0.0</skyColor>
+			<gravitationalMultiplier>110</gravitationalMultiplier>
+			<orbitalDistance>30</orbitalDistance>
+			<orbitalPhi>210</orbitalPhi>
+			<rotationalPeriod>100000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>minecraft:ghast_tear 0 1</artifact>
+		</planet>
+		<planet name="Arboris" DIMID="1204">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>85</gravitationalMultiplier>
+			<orbitalDistance>120</orbitalDistance>
+			<orbitalPhi>245</orbitalPhi>
+			<rotationalPeriod>75000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<biomeIds>advancedrocketry:alien forest</biomeIds>
+			<artifact>advancedrocketry:crystal 0 1</artifact>
+		</planet>
+		<planet name="Misty World" DIMID="69" dimMapping="">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
+			<orbitalPhi>178</orbitalPhi>
+			<rotationalPeriod>10000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>biomesoplenty:terrestrial_artifact 0 1</artifact>
+			<planet name="Misty Desert Moon" DIMID="70">
+				<isKnown>false</isKnown>
+				<fogColor>1.0,1.0,1.0</fogColor>
+				<skyColor>1.0,1.0,1.0</skyColor>
+				<gravitationalMultiplier>40</gravitationalMultiplier>
+				<orbitalDistance>100</orbitalDistance>
+				<orbitalPhi>0</orbitalPhi>
+				<rotationalPeriod>24000</rotationalPeriod>
+				<atmosphereDensity>100</atmosphereDensity>
+				<biomeIds>minecraft:desert,minecraft:river,minecraft:desert_hills,minecraft:mesa,minecraft:mesa_rock,minecraft:mesa_clear_rock,biomesoplenty:outback,biomesoplenty:quagmire,biomesoplenty:wasteland,biomesoplenty:xeric_shrubland,biomesoplenty:oasis,mist:up_desert,mist:up_dunes,minecraft:mutated_desert,mist:border_desert,minecraft:mutated_mesa,minecraft:mutated_mesa_rock,minecraft:mutated_mesa_clear_rock</biomeIds>
+			</planet>
+		</planet>
+		<planet name="Chasmix" DIMID="1205">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>60</gravitationalMultiplier>
+			<orbitalDistance>190</orbitalDistance>
+			<orbitalPhi>280</orbitalPhi>
+			<rotationalPeriod>300000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<biomeIds>minecraft:frozen_river,biomesoplenty:alps,advancedrocketry:crystalchasms</biomeIds>
+			<artifact>biomesoplenty:crystal_shard 0 1</artifact>
+		</planet>
+		<planet name="Defiled Planet" DIMID="1206">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,0.0,1.0</fogColor>
+			<skyColor>1.0,0.0,1.0</skyColor>
+			<gravitationalMultiplier>75</gravitationalMultiplier>
+			<orbitalDistance>150</orbitalDistance>
+			<orbitalPhi>315</orbitalPhi>
+			<rotationalPeriod>13000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<biomeIds>defiledlands:desert_defiled,defiledlands:plains_defiled,defiledlands:forest_tenebra,defiledlands:forest_vilespine,defiledlands:hills_defiled,defiledlands:swamp_defiled,defiledlands:ice_plains_defiled</biomeIds>
+			<artifact>advancedrocketry:crystal 0 1</artifact>
+		</planet>
+		<planet name="Menelaus" DIMID="73" dimMapping="">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>130</orbitalDistance>
+			<orbitalPhi>35</orbitalPhi>
+			<rotationalPeriod>66000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>biomesoplenty:terrestrial_artifact 0 1</artifact>
+		</planet>
+		<planet name="Tyros" DIMID="74" dimMapping="">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>180</orbitalDistance>
+			<orbitalPhi>70</orbitalPhi>
+			<rotationalPeriod>96000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>biomesoplenty:terrestrial_artifact 0 1</artifact>
+		</planet>
+		<planet name="Exoria" DIMID="1100" dimMapping="">
+			<isKnown>false</isKnown>
+			<fogColor>1.0,1.0,1.0</fogColor>
+			<skyColor>1.0,1.0,1.0</skyColor>
+			<gravitationalMultiplier>100</gravitationalMultiplier>
+			<orbitalDistance>100</orbitalDistance>
+			<orbitalPhi>0</orbitalPhi>
+			<rotationalPeriod>48000</rotationalPeriod>
+			<atmosphereDensity>100</atmosphereDensity>
+			<artifact>biomesoplenty:terrestrial_artifact 0 1</artifact>
+		</planet>
+	</star>
+</galaxy>

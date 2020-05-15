@@ -531,6 +531,7 @@
       "outback": "2020-04-14 22:56:55 +0100",
       "alps": "2020-05-08 00:25:19 +0100",
       "wasteland": "2020-04-14 22:26:25 +0100",
+      "mangrove": "2020-05-13 23:03:46 +0100",
       "snowy_forest": "2020-05-10 02:50:50 +0100",
       "bamboo_forest": "2020-05-10 00:43:46 +0100",
       "meadow": "2020-05-10 02:03:54 +0100"
@@ -546,6 +547,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2020-05-07 23:07:54 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_flower": "2020-05-13 23:16:55 +0100"
     },
     "done": true
   },
@@ -648,6 +655,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2020-03-14 02:00:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
+    "criteria": {
+      "has_log": "2020-05-13 23:16:55 +0100"
     },
     "done": true
   },
@@ -1366,12 +1379,14 @@
       "frozen_river": "2020-05-08 00:24:24 +0100",
       "mesa_rock": "2020-04-14 22:27:03 +0100",
       "birch_forest": "2020-05-10 02:02:25 +0100",
+      "swampland": "2020-05-13 22:56:38 +0100",
       "beaches": "2020-05-10 00:43:00 +0100",
       "desert_hills": "2020-04-14 22:58:30 +0100",
       "mesa": "2020-04-14 22:25:30 +0100",
       "jungle_hills": "2020-05-10 00:50:37 +0100",
       "jungle_edge": "2020-05-10 00:44:37 +0100",
       "mesa_clear_rock": "2020-04-14 22:29:58 +0100",
+      "ocean": "2020-05-13 22:57:55 +0100",
       "river": "2020-04-14 23:16:24 +0100",
       "jungle": "2020-05-10 00:43:38 +0100",
       "desert": "2020-04-14 22:25:35 +0100"
@@ -2654,6 +2669,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-14 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/willow_planks": {
+    "criteria": {
+      "has_log": "2020-05-13 23:16:51 +0100"
     },
     "done": true
   },
