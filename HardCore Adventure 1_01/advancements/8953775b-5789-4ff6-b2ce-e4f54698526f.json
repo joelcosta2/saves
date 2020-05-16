@@ -717,6 +717,7 @@
       "zombie_pigman": "2020-05-07 22:47:23 +0100",
       "stray": "2020-04-14 22:34:23 +0100",
       "shulker": "2020-03-24 00:24:31 +0000",
+      "wither_skeleton": "2020-05-16 01:37:50 +0100",
       "zombie_villager": "2020-04-14 22:34:17 +0100",
       "magma_cube": "2020-03-29 06:12:16 +0100",
       "slime": "2020-04-25 00:06:50 +0100",
@@ -2025,6 +2026,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-03-25 22:41:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-05-16 01:37:59 +0100"
     },
     "done": true
   },
