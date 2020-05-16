@@ -925,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2020-05-16 00:26:35 +0100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/tanzanite": {
     "criteria": {
       "has_the_recipe": "2020-03-20 23:11:18 +0000"
@@ -3449,6 +3455,12 @@
   "defiledlands:recipes/material/ravaging_ingot": {
     "criteria": {
       "has_material": "2020-05-10 01:39:44 +0100"
+    },
+    "done": true
+  },
+  "rftools:elevator": {
+    "criteria": {
+      "placed_elevator": "2020-05-16 00:39:42 +0100"
     },
     "done": true
   },
