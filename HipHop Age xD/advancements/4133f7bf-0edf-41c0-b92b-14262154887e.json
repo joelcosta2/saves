@@ -275,9 +275,10 @@
   },
   "triumph:stage2/skywave": {
     "criteria": {
-      "completedParent": "2020-06-20 06:07:35 +0100"
+      "completedParent": "2020-06-20 06:07:35 +0100",
+      "hasRock": "2020-06-22 17:45:24 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:adventurer/root": {
     "criteria": {
@@ -474,9 +475,10 @@
   },
   "triumph:stage2/stopwatch": {
     "criteria": {
-      "completedParent": "2020-06-20 02:45:47 +0100"
+      "completedParent": "2020-06-20 02:45:47 +0100",
+      "hasRock": "2020-06-22 17:24:13 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:fighter/fashionable_warrior": {
     "criteria": {
@@ -1118,6 +1120,13 @@
       "octine": "2020-06-20 00:02:25 +0100"
     },
     "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2020-06-22 17:53:30 +0100",
+      "cooked_venison": "2020-06-22 17:39:43 +0100"
+    },
+    "done": false
   },
   "thebetweenlands:fighter/whhyyy": {
     "criteria": {
