@@ -38,6 +38,13 @@
     },
     "done": true
   },
+  "thebetweenlands:farmer/sporadically_radical": {
+    "criteria": {
+      "plant_spores": "2020-06-22 22:11:30 +0100",
+      "harvest_fungus": "2020-06-22 22:13:14 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/totemic": {
     "criteria": {
       "hasRock": "2020-06-04 02:14:55 +0100",
@@ -92,6 +99,12 @@
       "entered_nether": "2020-06-18 22:47:13 +0100"
     },
     "done": true
+  },
+  "triumph:stage2/mapping": {
+    "criteria": {
+      "completedParent": "2020-06-22 22:12:30 +0100"
+    },
+    "done": false
   },
   "twilightforest:progress_naga": {
     "criteria": {
@@ -207,6 +220,12 @@
     },
     "done": true
   },
+  "triumph:stage3/iehammer": {
+    "criteria": {
+      "hasRock": "2020-06-22 22:11:30 +0100"
+    },
+    "done": false
+  },
   "triumph:stage2/depth": {
     "criteria": {
       "completedParent": "2020-06-20 02:45:47 +0100"
@@ -263,9 +282,10 @@
   },
   "triumph:stage2/skywave": {
     "criteria": {
-      "completedParent": "2020-06-20 06:07:35 +0100"
+      "completedParent": "2020-06-20 06:07:35 +0100",
+      "hasRock": "2020-06-22 22:11:30 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:adventurer/root": {
     "criteria": {
@@ -462,9 +482,10 @@
   },
   "triumph:stage2/stopwatch": {
     "criteria": {
-      "completedParent": "2020-06-20 02:45:47 +0100"
+      "completedParent": "2020-06-20 02:45:47 +0100",
+      "hasRock": "2020-06-22 22:10:46 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:fighter/fashionable_warrior": {
     "criteria": {
@@ -484,6 +505,13 @@
       "completedParent": "2020-06-10 03:48:48 +0100",
       "hasRock2": "2020-06-10 04:10:55 +0100",
       "hasRock1": "2020-06-10 04:09:58 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_hydra": "2020-06-22 23:18:11 +0100",
+      "trophy_pedestal": "2020-06-22 23:31:13 +0100"
     },
     "done": true
   },
@@ -572,9 +600,10 @@
   },
   "triumph:stage2/extendedcraftingbasic": {
     "criteria": {
-      "completedParent": "2020-06-20 05:33:26 +0100"
+      "completedParent": "2020-06-20 05:33:26 +0100",
+      "hasRock": "2020-06-22 22:12:30 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/spear": {
     "criteria": {
@@ -757,16 +786,24 @@
   },
   "thebetweenlands:farmer/mushroom_master": {
     "criteria": {
+      "fungus": "2020-06-22 22:13:14 +0100",
       "bulb": "2020-06-20 17:32:52 +0100",
       "black": "2020-06-18 22:48:43 +0100",
       "flathead": "2020-06-20 00:19:31 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/coal": {
     "criteria": {
       "hasRock": "2020-06-06 00:15:21 +0100",
       "completedParent": "2020-06-05 23:41:55 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:farmer/baby_murderer": {
+    "criteria": {
+      "mire_scramble": "2020-06-23 00:24:10 +0100",
+      "cooked_egg": "2020-06-22 22:11:30 +0100"
     },
     "done": true
   },
@@ -1101,6 +1138,13 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2020-06-22 22:11:30 +0100",
+      "cooked_venison": "2020-06-22 22:11:30 +0100"
+    },
+    "done": false
+  },
   "thebetweenlands:fighter/whhyyy": {
     "criteria": {
       "wight": "2020-06-20 19:31:24 +0100"
@@ -1161,6 +1205,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2020-06-22 23:31:13 +0100"
+    },
+    "done": false
+  },
   "triumph:stage2/gold": {
     "criteria": {
       "completedParent": "2020-06-10 04:17:59 +0100",
@@ -1195,6 +1245,12 @@
       "hasRock": "2020-06-18 23:55:57 +0100"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2020-06-22 23:18:11 +0100"
+    },
+    "done": false
   },
   "triumph:stage0/tipi": {
     "criteria": {
@@ -1293,9 +1349,11 @@
   },
   "triumph:stage0/baykok": {
     "criteria": {
-      "completedParent": "2020-06-05 00:15:28 +0100"
+      "killed_spider": "2020-06-22 23:01:28 +0100",
+      "completedParent": "2020-06-05 00:15:28 +0100",
+      "hasRock": "2020-06-22 23:01:28 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/controller": {
     "criteria": {
@@ -1380,6 +1438,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2020-06-22 23:18:11 +0100"
+    },
+    "done": false
+  },
   "triumph:stage1/bronze": {
     "criteria": {
       "hasRock": "2020-06-06 01:47:06 +0100",
@@ -1434,9 +1498,15 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "lifedrain_scepter": "2020-06-22 23:18:11 +0100",
+      "twilight_scepter": "2020-06-22 23:18:11 +0100",
+      "shield_scepter": "2020-06-22 23:18:11 +0100",
+      "kill_lich": "2020-06-22 23:18:11 +0100",
+      "trophy": "2020-06-22 23:18:11 +0100",
+      "zombie_scepter": "2020-06-22 23:18:11 +0100",
       "kill_naga": "2020-06-22 00:23:50 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/waterwheel": {
     "criteria": {
