@@ -7,9 +7,10 @@
   },
   "triumph:stage2/biomealyzer": {
     "criteria": {
-      "completedParent": "2020-06-20 02:45:47 +0100"
+      "completedParent": "2020-06-20 02:45:47 +0100",
+      "hasRock": "2020-07-01 23:20:11 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/root": {
     "criteria": {
@@ -182,9 +183,10 @@
   },
   "triumph:stage2/sealantern": {
     "criteria": {
-      "completedParent": "2020-06-10 03:47:00 +0100"
+      "completedParent": "2020-06-10 03:47:00 +0100",
+      "crafted": "2020-07-01 23:41:59 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:miner/advanced_darkness": {
     "criteria": {
@@ -228,9 +230,10 @@
   },
   "triumph:stage2/depth": {
     "criteria": {
-      "completedParent": "2020-06-20 02:45:47 +0100"
+      "completedParent": "2020-06-20 02:45:47 +0100",
+      "hasRock": "2020-07-01 23:26:23 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/tin": {
     "criteria": {
@@ -251,6 +254,12 @@
     "criteria": {
       "completedParent": "2020-06-02 00:10:14 +0100",
       "hasRock": "2020-06-03 22:36:00 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2020-07-02 00:29:14 +0100"
     },
     "done": true
   },
@@ -340,6 +349,15 @@
       "weedwood_sword": "2020-06-18 23:58:19 +0100",
       "bone_sword": "2020-06-18 23:58:19 +0100",
       "valonite_sword": "2020-06-18 23:58:19 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "hydra": "2020-07-01 23:54:53 +0100",
+      "trophy": "2020-07-01 23:54:53 +0100",
+      "blood": "2020-07-01 23:54:53 +0100",
+      "stroganoff": "2020-07-01 23:29:39 +0100"
     },
     "done": true
   },
@@ -441,6 +459,12 @@
     "criteria": {
       "hasRock": "2020-06-05 22:48:39 +0100",
       "completedParent": "2020-06-05 22:07:22 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:quest_ram": {
+    "criteria": {
+      "quest_ram_complete": "2020-07-01 23:48:49 +0100"
     },
     "done": true
   },
@@ -990,6 +1014,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2020-07-01 23:54:53 +0100"
+    },
+    "done": false
+  },
   "thebetweenlands:fighter/root": {
     "criteria": {
       "has_dank_world": "2020-06-18 22:47:19 +0100"
@@ -1113,10 +1143,11 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2020-07-01 23:54:53 +0100",
       "snow_queen": "2020-06-30 23:13:20 +0100",
       "ur_ghast": "2020-06-23 23:37:42 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/dung": {
     "criteria": {
@@ -1192,11 +1223,16 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
+      "raw_meef": "2020-07-02 00:30:06 +0100",
       "raw_venison": "2020-06-22 22:11:30 +0100",
+      "meef_stroganoff": "2020-07-02 00:30:06 +0100",
       "maze_wafer": "2020-06-23 23:26:08 +0100",
+      "hydra_chop": "2020-07-02 00:28:26 +0100",
+      "cooked_meef": "2020-07-02 00:30:06 +0100",
+      "experiment_115": "2020-07-02 00:29:14 +0100",
       "cooked_venison": "2020-06-22 22:11:30 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:fighter/whhyyy": {
     "criteria": {
@@ -1302,9 +1338,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2020-07-01 23:29:39 +0100",
       "kill_lich": "2020-06-22 23:18:11 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/tipi": {
     "criteria": {
@@ -1325,6 +1362,12 @@
       "pot3": "2020-06-19 01:08:33 +0100",
       "pot10": "2020-06-19 01:08:33 +0100",
       "pot4": "2020-06-19 01:08:33 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:hydra_chop": {
+    "criteria": {
+      "trophy_pedestal": "2020-07-02 00:28:26 +0100"
     },
     "done": true
   },
