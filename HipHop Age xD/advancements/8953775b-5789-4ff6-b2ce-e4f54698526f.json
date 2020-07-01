@@ -606,6 +606,12 @@
     },
     "done": true
   },
+  "twilightforest:maze_map": {
+    "criteria": {
+      "map": "2020-07-01 01:00:45 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/spear": {
     "criteria": {
       "hasRock": "2020-06-03 22:47:31 +0100",
@@ -713,6 +719,23 @@
     "criteria": {
       "completedParent": "2020-06-05 22:09:19 +0100",
       "crafted": "2020-06-05 23:43:58 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:arctic_armor_dyed": {
+    "criteria": {
+      "chest": "2020-06-30 23:46:56 +0100",
+      "helmet": "2020-06-30 23:46:56 +0100",
+      "legs": "2020-06-30 23:46:56 +0100",
+      "boots": "2020-06-30 23:46:56 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "queen": "2020-06-30 23:13:20 +0100",
+      "previous_progression": "2020-06-30 22:57:07 +0100",
+      "trophy": "2020-06-30 23:13:20 +0100"
     },
     "done": true
   },
@@ -1090,6 +1113,7 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "snow_queen": "2020-06-30 23:13:20 +0100",
       "ur_ghast": "2020-06-23 23:37:42 +0100"
     },
     "done": false
@@ -1470,9 +1494,11 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2020-06-22 23:18:11 +0100"
+      "fur": "2020-06-30 22:57:07 +0100",
+      "previous_progression": "2020-06-22 23:18:11 +0100",
+      "yeti": "2020-06-30 22:57:07 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/bronze": {
     "criteria": {
