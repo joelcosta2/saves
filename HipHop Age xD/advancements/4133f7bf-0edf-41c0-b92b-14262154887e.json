@@ -946,9 +946,10 @@
   "triumph:stage3/nickel": {
     "criteria": {
       "completedParent": "2020-07-04 03:21:41 +0100",
-      "hasRock2": "2020-06-17 22:06:13 +0100"
+      "hasRock2": "2020-06-17 22:06:13 +0100",
+      "hasRock1": "2020-07-07 19:15:06 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/root": {
     "criteria": {
@@ -1051,9 +1052,10 @@
   },
   "triumph:stage3/platinum": {
     "criteria": {
-      "completedParent": "2020-07-04 03:21:41 +0100"
+      "completedParent": "2020-07-04 03:21:41 +0100",
+      "hasRock": "2020-07-07 19:00:22 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fiber": {
     "criteria": {
@@ -1681,9 +1683,11 @@
   },
   "triumph:stage3/silverlead": {
     "criteria": {
-      "completedParent": "2020-07-04 03:21:41 +0100"
+      "completedParent": "2020-07-04 03:21:41 +0100",
+      "hasRock2": "2020-07-07 19:25:36 +0100",
+      "hasRock1": "2020-07-07 19:25:36 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/necro": {
     "criteria": {
