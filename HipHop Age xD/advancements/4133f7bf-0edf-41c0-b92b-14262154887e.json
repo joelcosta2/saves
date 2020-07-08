@@ -492,6 +492,12 @@
     },
     "done": true
   },
+  "triumph:stage3/conveyorbelt": {
+    "criteria": {
+      "completedParent": "2020-07-07 22:52:36 +0100"
+    },
+    "done": false
+  },
   "triumph:stage0/fluidbladder": {
     "criteria": {
       "hasRock": "2020-06-03 23:07:10 +0100",
@@ -556,9 +562,10 @@
   },
   "triumph:stage3/workbench": {
     "criteria": {
-      "completedParent": "2020-07-04 03:01:09 +0100"
+      "completedParent": "2020-07-04 03:01:09 +0100",
+      "hasRock": "2020-07-07 22:52:36 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fish": {
     "criteria": {
@@ -576,6 +583,12 @@
       "hasRock": "2020-06-22 17:24:13 +0100"
     },
     "done": true
+  },
+  "triumph:stage3/drawercontroller": {
+    "criteria": {
+      "completedParent": "2020-07-07 22:52:36 +0100"
+    },
+    "done": false
   },
   "thebetweenlands:fighter/fashionable_warrior": {
     "criteria": {
@@ -710,9 +723,10 @@
   },
   "triumph:stage3/hibachi": {
     "criteria": {
-      "completedParent": "2020-07-04 04:43:24 +0100"
+      "completedParent": "2020-07-04 04:43:24 +0100",
+      "hasRock": "2020-07-07 23:25:37 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fertility": {
     "criteria": {
@@ -1312,6 +1326,12 @@
     },
     "done": true
   },
+  "triumph:stage3/bellows": {
+    "criteria": {
+      "completedParent": "2020-07-07 23:25:37 +0100"
+    },
+    "done": false
+  },
   "triumph:stage1/aqueduct": {
     "criteria": {
       "placedDirt8": "2020-06-05 22:43:10 +0100",
@@ -1434,6 +1454,12 @@
       "completedParent": "2020-06-02 00:03:05 +0100"
     },
     "done": true
+  },
+  "triumph:stage3/vacuumtube": {
+    "criteria": {
+      "completedParent": "2020-07-07 22:52:36 +0100"
+    },
+    "done": false
   },
   "thebetweenlands:farmer/pure_and_dirty": {
     "criteria": {

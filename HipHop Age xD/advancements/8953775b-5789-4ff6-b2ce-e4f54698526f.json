@@ -723,9 +723,10 @@
   },
   "triumph:stage3/hibachi": {
     "criteria": {
-      "completedParent": "2020-07-04 04:43:24 +0100"
+      "completedParent": "2020-07-04 04:43:24 +0100",
+      "hasRock": "2020-07-07 23:25:37 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fertility": {
     "criteria": {
@@ -959,9 +960,10 @@
   "triumph:stage3/nickel": {
     "criteria": {
       "completedParent": "2020-07-04 03:21:41 +0100",
-      "hasRock2": "2020-06-22 00:01:37 +0100"
+      "hasRock2": "2020-06-22 00:01:37 +0100",
+      "hasRock1": "2020-07-07 22:52:59 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/root": {
     "criteria": {
@@ -1064,9 +1066,10 @@
   },
   "triumph:stage3/platinum": {
     "criteria": {
-      "completedParent": "2020-07-04 03:21:41 +0100"
+      "completedParent": "2020-07-04 03:21:41 +0100",
+      "hasRock": "2020-07-07 22:52:59 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fiber": {
     "criteria": {
@@ -1323,6 +1326,12 @@
     },
     "done": true
   },
+  "triumph:stage3/bellows": {
+    "criteria": {
+      "completedParent": "2020-07-07 23:25:37 +0100"
+    },
+    "done": false
+  },
   "triumph:stage1/aqueduct": {
     "criteria": {
       "placedDirt8": "2020-06-05 22:43:10 +0100",
@@ -1340,18 +1349,18 @@
     },
     "done": true
   },
-  "triumph:stage3/extendedcrafting1": {
-    "criteria": {
-      "completedParent": "2020-07-04 03:27:45 +0100"
-    },
-    "done": false
-  },
   "triumph:stage3/soundmuffler": {
     "criteria": {
       "hasRock": "2020-07-04 04:53:56 +0100",
       "completedParent": "2020-07-04 03:21:41 +0100"
     },
     "done": true
+  },
+  "triumph:stage3/extendedcrafting1": {
+    "criteria": {
+      "completedParent": "2020-07-04 03:27:45 +0100"
+    },
+    "done": false
   },
   "triumph:stage2/weird": {
     "criteria": {
@@ -1700,9 +1709,11 @@
   },
   "triumph:stage3/silverlead": {
     "criteria": {
-      "completedParent": "2020-07-04 03:21:41 +0100"
+      "completedParent": "2020-07-04 03:21:41 +0100",
+      "hasRock2": "2020-07-07 22:52:59 +0100",
+      "hasRock1": "2020-07-07 22:52:59 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/necro": {
     "criteria": {
