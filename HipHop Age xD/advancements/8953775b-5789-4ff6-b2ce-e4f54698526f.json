@@ -147,6 +147,13 @@
     },
     "done": true
   },
+  "triumph:stage3/netherbrick": {
+    "criteria": {
+      "hasRock": "2020-07-10 00:24:23 +0100",
+      "completedParent": "2020-07-09 23:59:42 +0100"
+    },
+    "done": true
+  },
   "triumph:stage2/enderman": {
     "criteria": {
       "completedParent": "2020-06-20 06:07:35 +0100",
@@ -241,9 +248,10 @@
   },
   "triumph:stage3/steel": {
     "criteria": {
-      "completedParent": "2020-07-04 03:11:57 +0100"
+      "completedParent": "2020-07-04 03:11:57 +0100",
+      "hasRock": "2020-07-10 00:50:30 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/glass": {
     "criteria": {
@@ -639,9 +647,16 @@
   },
   "triumph:stage3/rails": {
     "criteria": {
-      "completedParent": "2020-07-04 02:51:05 +0100"
+      "completedParent": "2020-07-04 02:51:05 +0100",
+      "hasRock2": "2020-07-10 00:10:10 +0100",
+      "hasRock1": "2020-07-10 00:10:10 +0100",
+      "hasRock0": "2020-07-10 00:10:10 +0100",
+      "hasRock6": "2020-07-10 00:10:10 +0100",
+      "hasRock5": "2020-07-10 00:10:10 +0100",
+      "hasRock4": "2020-07-10 00:10:10 +0100",
+      "hasRock3": "2020-07-10 00:10:10 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/you_are_what_you_eat": {
     "criteria": {
@@ -1328,9 +1343,10 @@
   },
   "triumph:stage3/bellows": {
     "criteria": {
-      "completedParent": "2020-07-07 23:25:37 +0100"
+      "completedParent": "2020-07-07 23:25:37 +0100",
+      "hasRock": "2020-07-09 23:02:35 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/aqueduct": {
     "criteria": {
@@ -1366,6 +1382,13 @@
     "criteria": {
       "completedParent": "2020-06-20 06:07:35 +0100",
       "crafted": "2020-06-21 02:21:03 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage3/potash": {
+    "criteria": {
+      "hasRock": "2020-07-09 23:59:42 +0100",
+      "completedParent": "2020-07-09 23:02:35 +0100"
     },
     "done": true
   },
@@ -1410,9 +1433,11 @@
   },
   "triumph:stage3/wireshock": {
     "criteria": {
-      "completedParent": "2020-07-04 04:45:31 +0100"
+      "completedParent": "2020-07-04 04:45:31 +0100",
+      "hasRock2": "2020-07-09 23:31:43 +0100",
+      "hasRock1": "2020-07-09 23:31:43 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/workstump": {
     "criteria": {
@@ -1689,9 +1714,10 @@
   },
   "triumph:stage3/waterwheel": {
     "criteria": {
-      "completedParent": "2020-07-04 03:11:57 +0100"
+      "completedParent": "2020-07-04 03:11:57 +0100",
+      "hasRock": "2020-07-10 00:51:15 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:fighter/crowd_control": {
     "criteria": {
@@ -1874,9 +1900,10 @@
   },
   "triumph:stage3/bonehoe": {
     "criteria": {
-      "completedParent": "2020-07-04 03:51:27 +0100"
+      "completedParent": "2020-07-04 03:51:27 +0100",
+      "hasRock": "2020-07-10 00:21:44 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/blazerod": {
     "criteria": {
