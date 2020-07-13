@@ -129,9 +129,10 @@
   },
   "triumph:stage3/projector": {
     "criteria": {
-      "completedParent": "2020-07-04 03:01:09 +0100"
+      "completedParent": "2020-07-04 03:01:09 +0100",
+      "hasRock": "2020-07-12 22:28:14 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/firepit": {
     "criteria": {
@@ -221,9 +222,10 @@
   },
   "triumph:stage3/bauxite": {
     "criteria": {
-      "completedParent": "2020-07-04 03:21:41 +0100"
+      "completedParent": "2020-07-04 03:21:41 +0100",
+      "hasRock": "2020-07-12 22:31:36 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/cart": {
     "criteria": {
@@ -266,6 +268,12 @@
       "completedParent": "2020-06-10 03:47:00 +0100"
     },
     "done": true
+  },
+  "triumph:stage3/modularmachinery": {
+    "criteria": {
+      "completedParent": "2020-07-13 01:04:36 +0100"
+    },
+    "done": false
   },
   "triumph:stage2/depth": {
     "criteria": {
@@ -379,9 +387,10 @@
   },
   "triumph:stage3/oreexcavation": {
     "criteria": {
-      "completedParent": "2020-07-04 03:21:41 +0100"
+      "completedParent": "2020-07-04 03:21:41 +0100",
+      "hasRock": "2020-07-12 22:59:58 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/carminitereactor": {
     "criteria": {
@@ -502,9 +511,10 @@
   },
   "triumph:stage3/conveyorbelt": {
     "criteria": {
-      "completedParent": "2020-07-07 22:52:36 +0100"
+      "completedParent": "2020-07-07 22:52:36 +0100",
+      "hasRock": "2020-07-12 23:40:00 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fluidbladder": {
     "criteria": {
@@ -1086,6 +1096,12 @@
     },
     "done": true
   },
+  "triumph:stage3/buildcraft": {
+    "criteria": {
+      "completedParent": "2020-07-13 01:04:36 +0100"
+    },
+    "done": false
+  },
   "triumph:stage0/fiber": {
     "criteria": {
       "hasRock": "2020-06-02 00:03:38 +0100",
@@ -1327,10 +1343,29 @@
     },
     "done": true
   },
+  "triumph:stage3/woodhull": {
+    "criteria": {
+      "completedParent": "2020-07-13 01:05:21 +0100"
+    },
+    "done": false
+  },
   "triumph:stage2/iron": {
     "criteria": {
       "completedParent": "2020-06-10 04:17:59 +0100",
       "brokeLog": "2020-06-17 22:06:12 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage3/sampledrill": {
+    "criteria": {
+      "completedParent": "2020-07-13 01:04:36 +0100"
+    },
+    "done": false
+  },
+  "triumph:stage3/circuitboard": {
+    "criteria": {
+      "hasRock": "2020-07-13 01:04:36 +0100",
+      "completedParent": "2020-07-12 23:06:17 +0100"
     },
     "done": true
   },
@@ -1482,9 +1517,10 @@
   },
   "triumph:stage3/vacuumtube": {
     "criteria": {
-      "completedParent": "2020-07-07 22:52:36 +0100"
+      "completedParent": "2020-07-07 22:52:36 +0100",
+      "hasRock": "2020-07-12 23:06:17 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:farmer/pure_and_dirty": {
     "criteria": {
@@ -1810,9 +1846,10 @@
   },
   "triumph:stage3/stevescartsassembler": {
     "criteria": {
-      "completedParent": "2020-07-04 02:51:05 +0100"
+      "completedParent": "2020-07-04 02:51:05 +0100",
+      "hasRock": "2020-07-13 01:05:21 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/pedestal": {
     "criteria": {
