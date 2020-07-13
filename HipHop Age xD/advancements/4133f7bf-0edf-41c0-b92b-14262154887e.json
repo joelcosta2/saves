@@ -271,9 +271,10 @@
   },
   "triumph:stage3/modularmachinery": {
     "criteria": {
-      "completedParent": "2020-07-13 01:04:36 +0100"
+      "completedParent": "2020-07-13 01:04:36 +0100",
+      "hasRock": "2020-07-13 23:05:20 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/depth": {
     "criteria": {
@@ -1289,6 +1290,12 @@
     },
     "done": true
   },
+  "triumph:stage3/naphtha": {
+    "criteria": {
+      "completedParent": "2020-07-13 23:49:39 +0100"
+    },
+    "done": false
+  },
   "thebetweenlands:survivalist/hardware_laundry": {
     "criteria": {
       "set_fire": "2020-06-19 01:30:27 +0100"
@@ -1359,9 +1366,10 @@
   },
   "triumph:stage3/sampledrill": {
     "criteria": {
-      "completedParent": "2020-07-13 01:04:36 +0100"
+      "completedParent": "2020-07-13 01:04:36 +0100",
+      "hasRock": "2020-07-13 22:09:46 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/circuitboard": {
     "criteria": {
@@ -1852,6 +1860,13 @@
     },
     "done": true
   },
+  "triumph:stage3/crudeoil": {
+    "criteria": {
+      "hasRock": "2020-07-13 23:49:39 +0100",
+      "completedParent": "2020-07-13 22:09:46 +0100"
+    },
+    "done": true
+  },
   "triumph:stage1/pedestal": {
     "criteria": {
       "hasRock": "2020-06-06 04:57:06 +0100",
@@ -1945,9 +1960,10 @@
   },
   "triumph:stage3/blazerod": {
     "criteria": {
-      "completedParent": "2020-07-04 03:27:45 +0100"
+      "completedParent": "2020-07-04 03:27:45 +0100",
+      "hasRock": "2020-07-13 22:31:57 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/stevescarts": {
     "criteria": {
