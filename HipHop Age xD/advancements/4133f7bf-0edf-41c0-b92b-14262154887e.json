@@ -100,6 +100,12 @@
     },
     "done": true
   },
+  "triumph:stage3/plastic": {
+    "criteria": {
+      "completedParent": "2020-07-17 00:50:29 +0100"
+    },
+    "done": false
+  },
   "thebetweenlands:adventurer/give_me_that": {
     "criteria": {
       "talisman": "2020-06-18 22:30:57 +0100"
@@ -761,6 +767,13 @@
     },
     "done": true
   },
+  "triumph:stage3/steam": {
+    "criteria": {
+      "hasRock": "2020-07-16 23:53:41 +0100",
+      "completedParent": "2020-07-16 22:05:27 +0100"
+    },
+    "done": true
+  },
   "triumph:stage2/extendedcraftingbasic": {
     "criteria": {
       "completedParent": "2020-06-20 05:33:26 +0100",
@@ -799,6 +812,13 @@
     "criteria": {
       "hasRock": "2020-07-04 03:51:27 +0100",
       "completedParent": "2020-07-04 03:40:04 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage3/liquidplastic": {
+    "criteria": {
+      "completedParent": "2020-07-16 23:53:41 +0100",
+      "hasRock": "2020-07-17 00:50:29 +0100"
     },
     "done": true
   },
@@ -1041,6 +1061,13 @@
     },
     "done": true
   },
+  "triumph:stage3/standardhull": {
+    "criteria": {
+      "hasRock": "2020-07-16 22:49:37 +0100",
+      "completedParent": "2020-07-16 22:49:05 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/mat": {
     "criteria": {
       "hasRock": "2020-06-04 02:08:01 +0100",
@@ -1114,6 +1141,13 @@
   "thebetweenlands:survivalist/onions_have_layers": {
     "criteria": {
       "set_fire": "2020-06-20 19:46:58 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage3/propene": {
+    "criteria": {
+      "hasRock": "2020-07-16 23:53:31 +0100",
+      "completedParent": "2020-07-16 23:53:41 +0100"
     },
     "done": true
   },
@@ -1271,6 +1305,12 @@
     },
     "done": true
   },
+  "triumph:stage3/galgadorian": {
+    "criteria": {
+      "completedParent": "2020-07-16 22:49:37 +0100"
+    },
+    "done": false
+  },
   "thebetweenlands:fighter/sticky_situation": {
     "criteria": {
       "sludge": "2020-06-20 19:33:52 +0100"
@@ -1292,9 +1332,10 @@
   },
   "triumph:stage3/naphtha": {
     "criteria": {
-      "completedParent": "2020-07-13 23:49:39 +0100"
+      "completedParent": "2020-07-13 23:49:39 +0100",
+      "hasRock": "2020-07-16 22:05:27 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/hardware_laundry": {
     "criteria": {
@@ -1353,9 +1394,10 @@
   },
   "triumph:stage3/woodhull": {
     "criteria": {
-      "completedParent": "2020-07-13 01:05:21 +0100"
+      "completedParent": "2020-07-13 01:05:21 +0100",
+      "hasRock": "2020-07-16 22:49:05 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/iron": {
     "criteria": {
@@ -1783,6 +1825,15 @@
       "completedParent": "2020-07-04 03:21:41 +0100",
       "hasRock2": "2020-07-07 19:25:36 +0100",
       "hasRock1": "2020-07-07 19:25:36 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage3/distillation2": {
+    "criteria": {
+      "completedParent": "2020-07-16 22:05:27 +0100",
+      "hasRock2": "2020-07-16 22:14:38 +0100",
+      "hasRock1": "2020-07-16 22:14:31 +0100",
+      "hasRock3": "2020-07-16 22:14:54 +0100"
     },
     "done": true
   },
