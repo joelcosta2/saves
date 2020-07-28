@@ -1434,6 +1434,12 @@
     },
     "done": true
   },
+  "twilightforest:break_glass_sword": {
+    "criteria": {
+      "broken_sword": "2020-07-28 14:50:43 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/chestupgrade": {
     "criteria": {
       "completedParent": "2020-06-03 22:29:39 +0100",
