@@ -107,6 +107,13 @@
     },
     "done": true
   },
+  "triumph:stage4/launchpad": {
+    "criteria": {
+      "hasRock": "2020-07-28 01:48:39 +0100",
+      "completedParent": "2020-07-27 23:17:54 +0100"
+    },
+    "done": true
+  },
   "triumph:stage3/plastic": {
     "criteria": {
       "completedParent": "2020-07-17 00:50:29 +0100",
@@ -480,9 +487,10 @@
   },
   "triumph:stage4/oxygencollector": {
     "criteria": {
-      "completedParent": "2020-07-27 02:55:42 +0100"
+      "completedParent": "2020-07-27 02:55:42 +0100",
+      "hasRock": "2020-07-27 22:08:46 +0100"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
@@ -1012,6 +1020,13 @@
     },
     "done": true
   },
+  "triumph:stage4/nasaworkbench": {
+    "criteria": {
+      "hasRock": "2020-07-27 23:17:54 +0100",
+      "completedParent": "2020-07-27 22:29:05 +0100"
+    },
+    "done": true
+  },
   "triumph:stage1/plumbline": {
     "criteria": {
       "completedParent": "2020-06-05 22:09:19 +0100",
@@ -1206,9 +1221,11 @@
   },
   "triumph:stage4/endercrafter": {
     "criteria": {
-      "completedParent": "2020-07-27 02:25:18 +0100"
+      "completedParent": "2020-07-27 02:25:18 +0100",
+      "hasRock2": "2020-07-27 22:29:05 +0100",
+      "hasRock1": "2020-07-27 22:29:05 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/alloykiln": {
     "criteria": {
@@ -1260,9 +1277,10 @@
   },
   "triumph:stage4/rsgrid": {
     "criteria": {
-      "completedParent": "2020-07-21 01:17:19 +0100"
+      "completedParent": "2020-07-21 01:17:19 +0100",
+      "hasRock": "2020-07-27 23:55:25 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/onions_have_layers": {
     "criteria": {
@@ -1481,6 +1499,12 @@
     },
     "done": true
   },
+  "triumph:stage4/moon": {
+    "criteria": {
+      "completedParent": "2020-07-28 00:43:25 +0100"
+    },
+    "done": false
+  },
   "twilightforest:magic_map": {
     "criteria": {
       "map": "2020-06-22 00:46:45 +0100"
@@ -1518,9 +1542,10 @@
   },
   "triumph:stage4/extendedcraftingelite": {
     "criteria": {
-      "completedParent": "2020-07-20 23:46:54 +0100"
+      "completedParent": "2020-07-20 23:46:54 +0100",
+      "hasRock": "2020-07-28 02:22:00 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/dung": {
     "criteria": {
@@ -1725,6 +1750,16 @@
     },
     "done": true
   },
+  "triumph:stage4/spacesuit": {
+    "criteria": {
+      "completedParent": "2020-07-27 23:17:54 +0100",
+      "hasRock2": "2020-07-28 01:46:29 +0100",
+      "hasRock1": "2020-07-28 01:46:29 +0100",
+      "hasRock4": "2020-07-28 01:46:29 +0100",
+      "hasRock3": "2020-07-28 01:46:29 +0100"
+    },
+    "done": true
+  },
   "thebetweenlands:farmer/pure_and_dirty": {
     "criteria": {
       "use_compost": "2020-06-20 19:56:09 +0100"
@@ -1803,9 +1838,10 @@
   },
   "triumph:stage4/fuelloader": {
     "criteria": {
-      "completedParent": "2020-07-27 02:55:42 +0100"
+      "completedParent": "2020-07-27 02:55:42 +0100",
+      "hasRock": "2020-07-27 21:40:37 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage4/ardite": {
     "criteria": {
@@ -2102,6 +2138,16 @@
   "triumph:stage3/nether": {
     "criteria": {
       "entered_nether": "2020-07-04 03:27:45 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage4/t1rocket": {
+    "criteria": {
+      "completedParent": "2020-07-27 23:17:54 +0100",
+      "hasRock2": "2020-07-28 00:43:25 +0100",
+      "hasRock1": "2020-07-28 00:43:25 +0100",
+      "hasRock4": "2020-07-28 00:43:25 +0100",
+      "hasRock3": "2020-07-28 00:43:25 +0100"
     },
     "done": true
   },
