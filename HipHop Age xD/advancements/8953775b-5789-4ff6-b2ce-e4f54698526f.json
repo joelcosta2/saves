@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "triumph:stage5/charger3": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
+  },
   "triumph:stage0/weaponize": {
     "criteria": {
       "completedParent": "2020-06-02 00:10:14 +0100",
@@ -401,6 +407,12 @@
     },
     "done": true
   },
+  "triumph:stage5/root": {
+    "criteria": {
+      "completedStage1": "2020-07-28 23:17:21 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/waterstrainer": {
     "criteria": {
       "completedParent": "2020-06-02 00:15:04 +0100",
@@ -415,6 +427,12 @@
       "completedParent": "2020-07-04 03:01:09 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/ultimatecraftingtable": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
   },
   "triumph:stage4/inscriber": {
     "criteria": {
@@ -736,6 +754,12 @@
       "completedParent": "2020-06-10 04:10:55 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/spawnerseeker": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
   },
   "thebetweenlands:adventurer/none_to_rule_them_all": {
     "criteria": {
@@ -1338,6 +1362,12 @@
     },
     "done": true
   },
+  "triumph:stage5/prospectorstage5": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
+  },
   "triumph:stage1/parrot": {
     "criteria": {
       "tamed_horse": "2020-06-08 22:50:05 +0100",
@@ -1375,13 +1405,27 @@
   },
   "triumph:stage4/blockheads1": {
     "criteria": {
-      "completedParent": "2020-07-20 22:49:35 +0100"
+      "completedParent": "2020-07-20 22:49:35 +0100",
+      "hasRock": "2020-07-28 22:37:20 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage4/blockheads3": {
+    "criteria": {
+      "completedParent": "2020-07-28 22:39:29 +0100"
     },
     "done": false
   },
   "thebetweenlands:fighter/root": {
     "criteria": {
       "has_dank_world": "2020-06-18 22:47:19 +0100"
+    },
+    "done": true
+  },
+  "triumph:stage4/blockheads2": {
+    "criteria": {
+      "hasRock": "2020-07-28 22:39:29 +0100",
+      "completedParent": "2020-07-28 22:37:20 +0100"
     },
     "done": true
   },
@@ -1501,9 +1545,10 @@
   },
   "triumph:stage4/moon": {
     "criteria": {
-      "completedParent": "2020-07-28 00:43:25 +0100"
+      "completedParent": "2020-07-28 00:43:25 +0100",
+      "entered_nether": "2020-07-28 23:17:21 +0100"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:magic_map": {
     "criteria": {
@@ -1815,12 +1860,24 @@
     },
     "done": true
   },
+  "triumph:stage5/scanner": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
+  },
   "triumph:stage2/wateringcan": {
     "criteria": {
       "completedParent": "2020-06-17 23:27:23 +0100",
       "hasRock": "2020-06-18 23:55:57 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/paperclip": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -1871,6 +1928,12 @@
       "pot4": "2020-06-19 01:08:33 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/electrumjetpack": {
+    "criteria": {
+      "completedParent": "2020-07-28 23:17:21 +0100"
+    },
+    "done": false
   },
   "twilightforest:hydra_chop": {
     "criteria": {
