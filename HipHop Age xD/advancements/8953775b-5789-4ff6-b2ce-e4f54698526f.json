@@ -1613,9 +1613,10 @@
   },
   "triumph:stage5/skystone": {
     "criteria": {
-      "completedParent": "2020-08-01 23:01:26 +0100"
+      "completedParent": "2020-08-01 23:01:26 +0100",
+      "hasRock": "2020-08-03 00:00:39 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/naphtha": {
     "criteria": {
