@@ -806,9 +806,11 @@
   },
   "triumph:stage5/desh": {
     "criteria": {
-      "completedParent": "2020-08-02 03:20:10 +0100"
+      "completedParent": "2020-08-02 03:20:10 +0100",
+      "hasRock": "2020-08-03 22:57:02 +0100",
+      "hasOre": "2020-08-03 22:57:02 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/a_cure": {
     "criteria": {
@@ -831,9 +833,13 @@
   },
   "triumph:stage5/marsrover": {
     "criteria": {
-      "completedParent": "2020-08-02 01:36:27 +0100"
+      "completedParent": "2020-08-02 01:36:27 +0100",
+      "hasRock2": "2020-08-03 22:45:32 +0100",
+      "hasRock1": "2020-08-03 22:45:32 +0100",
+      "hasRock4": "2020-08-03 22:45:32 +0100",
+      "hasRock3": "2020-08-03 22:45:32 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/you_are_what_you_eat": {
     "criteria": {
