@@ -290,6 +290,20 @@
     },
     "done": true
   },
+  "thebetweenlands:fighter/do_the_wave": {
+    "criteria": {
+      "kill_1": "2020-08-10 23:58:04 +0100",
+      "kill_2": "2020-08-10 23:58:04 +0100",
+      "kill_3": "2020-08-10 23:58:08 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/staring_contest": {
+    "criteria": {
+      "primordial_malevolence": "2020-08-10 23:51:39 +0100"
+    },
+    "done": true
+  },
   "thebetweenlands:fighter/cling_bling": {
     "criteria": {
       "amulet": "2020-06-20 19:18:11 +0100"
@@ -800,7 +814,8 @@
   },
   "thebetweenlands:adventurer/none_to_rule_them_all": {
     "criteria": {
-      "ring_2": "2020-06-20 20:45:17 +0100"
+      "ring_2": "2020-06-20 20:45:17 +0100",
+      "ring_3": "2020-08-10 23:51:39 +0100"
     },
     "done": false
   },
@@ -1361,6 +1376,12 @@
     },
     "done": true
   },
+  "thebetweenlands:fighter/glorified_toothpick": {
+    "criteria": {
+      "shockwave_sword": "2020-08-10 23:36:50 +0100"
+    },
+    "done": true
+  },
   "triumph:stage5/osmium": {
     "criteria": {
       "hasRock": "2020-08-01 16:46:53 +0100",
@@ -1499,9 +1520,10 @@
   },
   "triumph:stage4/blockheads3": {
     "criteria": {
-      "completedParent": "2020-07-28 22:39:29 +0100"
+      "completedParent": "2020-07-28 22:39:29 +0100",
+      "hasRock": "2020-08-11 18:39:33 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:fighter/root": {
     "criteria": {
@@ -1600,9 +1622,16 @@
   },
   "triumph:stage3/galgadorian": {
     "criteria": {
-      "completedParent": "2020-07-16 22:49:37 +0100"
+      "completedParent": "2020-07-16 22:49:37 +0100",
+      "hasRock": "2020-08-13 20:29:28 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2020-08-11 10:02:08 +0100"
+    },
+    "done": true
   },
   "thebetweenlands:fighter/sticky_situation": {
     "criteria": {
@@ -2486,9 +2515,13 @@
   },
   "triumph:stage3/viescraft": {
     "criteria": {
-      "completedParent": "2020-07-23 01:03:43 +0100"
+      "completedParent": "2020-07-23 01:03:43 +0100",
+      "hasRock2": "2020-08-11 22:46:35 +0100",
+      "hasRock1": "2020-08-11 22:46:35 +0100",
+      "hasRock4": "2020-08-11 22:46:35 +0100",
+      "hasRock3": "2020-08-11 22:46:35 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:adventurer/ruined_it": {
     "criteria": {
