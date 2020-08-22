@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "triumph:stage5/emeraldjetpack": {
+    "criteria": {
+      "completedParent": "2020-08-17 22:23:43 +0100"
+    },
+    "done": false
+  },
   "triumph:stage1/furnace": {
     "criteria": {
       "completedParent": "2020-06-05 22:09:19 +0100",
@@ -864,9 +870,10 @@
   },
   "triumph:stage5/diamondjetpack": {
     "criteria": {
-      "completedParent": "2020-08-01 18:51:59 +0100"
+      "completedParent": "2020-08-01 18:51:59 +0100",
+      "hasRock": "2020-08-17 22:23:43 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/quest_for_fire": {
     "criteria": {

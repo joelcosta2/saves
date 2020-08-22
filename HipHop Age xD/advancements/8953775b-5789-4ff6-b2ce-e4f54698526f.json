@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "triumph:stage5/emeraldjetpack": {
+    "criteria": {
+      "completedParent": "2020-08-17 22:23:43 +0100"
+    },
+    "done": false
+  },
   "triumph:stage1/furnace": {
     "criteria": {
       "completedParent": "2020-06-05 22:09:19 +0100",
@@ -287,6 +293,20 @@
     "criteria": {
       "completedParent": "2020-07-20 22:49:35 +0100",
       "hasRock": "2020-07-22 23:16:28 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/do_the_wave": {
+    "criteria": {
+      "kill_1": "2020-08-17 22:00:06 +0100",
+      "kill_2": "2020-08-17 22:00:06 +0100",
+      "kill_3": "2020-08-17 22:00:06 +0100"
+    },
+    "done": true
+  },
+  "thebetweenlands:fighter/staring_contest": {
+    "criteria": {
+      "primordial_malevolence": "2020-08-17 22:00:06 +0100"
     },
     "done": true
   },
@@ -800,7 +820,8 @@
   },
   "thebetweenlands:adventurer/none_to_rule_them_all": {
     "criteria": {
-      "ring_2": "2020-06-20 17:46:12 +0100"
+      "ring_2": "2020-06-20 17:46:12 +0100",
+      "ring_3": "2020-08-17 22:00:06 +0100"
     },
     "done": false
   },
@@ -849,9 +870,10 @@
   },
   "triumph:stage5/diamondjetpack": {
     "criteria": {
-      "completedParent": "2020-08-01 18:51:59 +0100"
+      "completedParent": "2020-08-01 18:51:59 +0100",
+      "hasRock": "2020-08-17 22:23:43 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:survivalist/quest_for_fire": {
     "criteria": {
@@ -1361,6 +1383,12 @@
     },
     "done": true
   },
+  "thebetweenlands:fighter/glorified_toothpick": {
+    "criteria": {
+      "shockwave_sword": "2020-08-17 22:00:06 +0100"
+    },
+    "done": true
+  },
   "triumph:stage5/osmium": {
     "criteria": {
       "hasRock": "2020-08-01 16:41:56 +0100",
@@ -1499,9 +1527,10 @@
   },
   "triumph:stage4/blockheads3": {
     "criteria": {
-      "completedParent": "2020-07-28 22:39:29 +0100"
+      "completedParent": "2020-07-28 22:39:29 +0100",
+      "hasRock": "2020-08-17 22:00:06 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:fighter/root": {
     "criteria": {
@@ -1565,6 +1594,12 @@
     },
     "done": true
   },
+  "twilightforest:break_glass_sword": {
+    "criteria": {
+      "broken_sword": "2020-08-17 22:00:06 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/chestupgrade": {
     "criteria": {
       "completedParent": "2020-06-02 00:32:38 +0100",
@@ -1594,9 +1629,16 @@
   },
   "triumph:stage3/galgadorian": {
     "criteria": {
-      "completedParent": "2020-07-16 22:49:37 +0100"
+      "completedParent": "2020-07-16 22:49:37 +0100",
+      "hasRock": "2020-08-17 22:00:06 +0100"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:mazebreaker": {
+    "criteria": {
+      "pick": "2020-08-17 22:00:06 +0100"
+    },
+    "done": true
   },
   "thebetweenlands:fighter/sticky_situation": {
     "criteria": {
@@ -2480,9 +2522,13 @@
   },
   "triumph:stage3/viescraft": {
     "criteria": {
-      "completedParent": "2020-07-23 01:03:43 +0100"
+      "completedParent": "2020-07-23 01:03:43 +0100",
+      "hasRock2": "2020-08-17 22:00:06 +0100",
+      "hasRock1": "2020-08-17 22:00:06 +0100",
+      "hasRock4": "2020-08-17 22:00:06 +0100",
+      "hasRock3": "2020-08-17 22:00:06 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:adventurer/ruined_it": {
     "criteria": {
