@@ -962,6 +962,13 @@
     },
     "done": true
   },
+  "triumph:stage5/prosperityshard": {
+    "criteria": {
+      "hasRock": "2020-09-01 00:21:37 +0100",
+      "completedParent": "2020-09-01 00:18:46 +0100"
+    },
+    "done": true
+  },
   "triumph:stage0/fertility": {
     "criteria": {
       "completedParent": "2020-06-04 02:26:41 +0100",
@@ -1439,9 +1446,10 @@
   },
   "triumph:stage5/inferiumessence": {
     "criteria": {
-      "completedParent": "2020-08-29 01:40:30 +0100"
+      "completedParent": "2020-08-29 01:40:30 +0100",
+      "hasRock": "2020-09-01 00:18:46 +0100"
     },
-    "done": false
+    "done": true
   },
   "thebetweenlands:adventurer/dank_world": {
     "criteria": {
@@ -1622,9 +1630,10 @@
   },
   "triumph:stage5/neptune": {
     "criteria": {
-      "completedParent": "2020-08-29 01:40:30 +0100"
+      "completedParent": "2020-08-29 01:40:30 +0100",
+      "entered_nether": "2020-09-01 00:01:55 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage2/wool": {
     "criteria": {
@@ -1665,6 +1674,12 @@
       "hasRock": "2020-06-04 00:30:15 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/sevadus": {
+    "criteria": {
+      "completedParent": "2020-09-01 00:01:55 +0100"
+    },
+    "done": false
   },
   "thebetweenlands:adventurer/tall_tough": {
     "criteria": {
