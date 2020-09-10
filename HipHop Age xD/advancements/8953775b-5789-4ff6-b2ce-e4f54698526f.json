@@ -171,9 +171,10 @@
   },
   "triumph:stage5/emeraldjetpack": {
     "criteria": {
-      "completedParent": "2020-08-17 22:23:43 +0100"
+      "completedParent": "2020-08-17 22:23:43 +0100",
+      "hasRock": "2020-09-09 22:49:17 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage1/furnace": {
     "criteria": {
@@ -718,6 +719,13 @@
     },
     "done": true
   },
+  "triumph:stage5/creativemodifer": {
+    "criteria": {
+      "hasRock": "2020-09-09 23:45:55 +0100",
+      "completedParent": "2020-09-09 23:10:06 +0100"
+    },
+    "done": true
+  },
   "thebetweenlands:farmer/a_vine_bush": {
     "criteria": {
       "plant_white_pear": "2020-06-20 19:10:45 +0100",
@@ -777,6 +785,12 @@
     },
     "done": true
   },
+  "triumph:stage5/creativefluidtank": {
+    "criteria": {
+      "completedParent": "2020-09-09 23:10:06 +0100"
+    },
+    "done": false
+  },
   "thebetweenlands:fighter/fashionable_warrior": {
     "criteria": {
       "hurt_mob_default": "2020-06-20 19:15:12 +0100"
@@ -789,6 +803,12 @@
       "completedParent": "2020-06-10 03:47:00 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/creativeenergycube": {
+    "criteria": {
+      "completedParent": "2020-09-09 23:10:06 +0100"
+    },
+    "done": false
   },
   "triumph:stage2/tcontable2": {
     "criteria": {
@@ -1404,6 +1424,12 @@
     },
     "done": true
   },
+  "triumph:stage5/creativejetpack": {
+    "criteria": {
+      "completedParent": "2020-09-09 23:10:06 +0100"
+    },
+    "done": false
+  },
   "triumph:stage0/fiber": {
     "criteria": {
       "hasRock": "2020-06-02 00:03:38 +0100",
@@ -1772,9 +1798,10 @@
   },
   "triumph:stage5/ultimateingot": {
     "criteria": {
-      "completedParent": "2020-08-02 03:28:58 +0100"
+      "completedParent": "2020-08-02 03:28:58 +0100",
+      "hasRock": "2020-09-09 23:10:06 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage3/woodhull": {
     "criteria": {
@@ -2399,6 +2426,12 @@
       "bread_snails": "2020-06-20 00:42:54 +0100"
     },
     "done": true
+  },
+  "triumph:stage5/creativecompressor": {
+    "criteria": {
+      "completedParent": "2020-09-09 23:10:06 +0100"
+    },
+    "done": false
   },
   "triumph:stage3/stevescartsassembler": {
     "criteria": {
