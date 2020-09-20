@@ -1426,9 +1426,10 @@
   },
   "triumph:stage5/creativejetpack": {
     "criteria": {
-      "completedParent": "2020-09-09 23:10:06 +0100"
+      "completedParent": "2020-09-09 23:10:06 +0100",
+      "hasRock": "2020-09-19 00:21:49 +0100"
     },
-    "done": false
+    "done": true
   },
   "triumph:stage0/fiber": {
     "criteria": {
